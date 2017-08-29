@@ -67,11 +67,8 @@ def TestProxy(proxy,ssl = False,url = None,debug = False,pp = None):
 		if debug:
 			print '[GOOD]',proxy
 		if pp is not None:
-			pp.push(proxy)
+			pp.push(proxy,debug=debug)
 		return True
-
-
-
 
 class Proxy(object):
 	def __init__(self,host,port):
@@ -139,6 +136,8 @@ class ProxyPool(object):
 			'ProxyPool has already started. Do not start it again!'
 		else:
 			self.__start = True
+			self.__proxyset = set()
+			self.__proxyheap = ProxyHeap()	
 			#self.__timer = threading.Timer(delay,self.refresh,(source,debug))
 			self.refresh(delay,source,ssl,debug)
 
@@ -154,6 +153,7 @@ class ProxyPool(object):
 			while self.__proxyheap.empty():
 				self.__cond.wait()
 			item = self.__proxyheap.pop()
+			self.__proxyset.remove(item.toURL())
 			if debug:
 				print 'POP : ',item,'[ %s LEFT ]' % (self.__proxyheap.length(),)
 			self.__cond.notify()
@@ -166,14 +166,18 @@ class ProxyPool(object):
 	def push(self,item,debug = False):
 		if self.__start:
 			self.__cond.acquire()
-			flag = self.__proxyheap.push(item)
-			if debug:
-				print 'PUSH : ',item,'[ %s LEFT ]' % (self.__proxyheap.length(),)
+			if item.toURL() not in self.__proxyset:
+				self.__proxyset.add(item.toURL())
+				flag = self.__proxyheap.push(item)
+				if debug:
+					print 'PUSH : ',item,'[ %s LEFT ]' % (self.__proxyheap.length(),)
+			else:
+				if debug:
+					print 'UNPUSH[REPEAT] : ',item,'[ %s LEFT ]' % (self.__proxyheap.length(),)
 			self.__cond.notify()
 			self.__cond.release()
 
 	def refresh(self,delay,source,ssl,debug):
-		self.__proxyheap = ProxyHeap()	
 		proxylist = getProxyList(source,ssl,debug)
 		for p in proxylist:
 			threading.Thread(target = TestProxy,kwargs = {'proxy':p,'ssl':ssl,'debug':debug,'pp':self}).start()
@@ -183,6 +187,5 @@ class ProxyPool(object):
 	def length(self):
 		return self.__proxyheap.length()
 
-# TODO : add function to test the network condition of the proxies
 # TODO : add a README
 # TODO : add doc

@@ -3,7 +3,7 @@ from CroxxProxyPool import ProxyPool
 import threading,time,random
 
 pp = ProxyPool()
-pp.start(delay = 10 * 60,ssl = True,debug = True)
+pp.start(delay = 60,ssl = True,debug = True)
 
 
 def testThread(tid,pp):
