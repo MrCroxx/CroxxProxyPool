@@ -2,7 +2,7 @@
 
 '''
 
-一个爬取链家网北京机场线二手房信息的爬虫
+一个爬取链家网北京2号线二手房信息的爬虫
 
 '''
 
@@ -15,16 +15,14 @@ import time
 from winsound import Beep
 
 pp = ProxyPool()
-pp.start(delay = 120,ssl = True,debug = True)
+pp.start(source = 'xicidaili',delay = 30,ssl = True,debug = False)
 
 
 mutex = threading.Lock()
 
 count = 0
 
-urllist = []
-
-pages = 32
+pages = 49
 
 
 
@@ -32,17 +30,17 @@ def crawl(page):
 
 	try:		
 
-		global pp,count,mutex,urllist,pages
+		global pp,count,mutex,pages		
 
-		print '< Page %s Crawling ... %s of %s >' % (page,count,pages),datetime.now()
-
-		url = 'https://bj.lianjia.com/ditiefang/li653/pg' + str(page)
+		url = 'https://bj.lianjia.com/ditiefang/li656/pg' + str(page)
 
 		headers = {
 			'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
 		}
 
 		proxy = pp.pop()
+
+		print '< Page %s Crawling ... %s of %s >' % (page,count,pages),datetime.now()
 
 		proxies = {
 			'http':proxy.toURL(),
@@ -51,7 +49,7 @@ def crawl(page):
 
 		print 'Proxy : ',proxy.toURL()
 
-		res = requests.get(url,headers = headers,proxies=proxies)		
+		res = requests.get(url,headers = headers,proxies=proxies)
 
 		html = etree.HTML(res.text)
 
@@ -62,11 +60,14 @@ def crawl(page):
 		pp.push(proxy)
 
 		mutex.acquire()
-		for a in alist:
-			urllist.append(a.attrib['href'])
+
+		with open('url.txt','a') as f:
+			for a in alist:
+				f.write(a.attrib['href'] + '\n')
 
 		count += 1
 		print '< Page %s Finished ! %s of %s >' % (page,count,pages),datetime.now()
+		Beep(800,300)
 		mutex.release()
 	except:
 		print '< Page %s Failed ! Restarting ... %s of %s >' % (page,count,pages),datetime.now()
@@ -75,15 +76,11 @@ def crawl(page):
 for i in range(1,pages+1):
 	threading.Thread(target=crawl,args=(i,)).start()
 
-while count<pages:
+while count < pages:
 	pass
 
 time.sleep(1)
-print 'Length : ',len(urllist)
 
+Beep(800,2000)
 
-with open('url.txt','a') as f:
-	for item in urllist:
-		f.write(item+'\n')
-
-Beep(800,1000)
+pp.stop()
