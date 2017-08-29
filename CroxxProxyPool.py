@@ -5,6 +5,7 @@ from lxml import etree
 from datetime import datetime
 import heapq
 import threading
+import random
 
 def getProxyList(source,ssl,debug):
 
@@ -17,7 +18,7 @@ def getProxyList(source,ssl,debug):
 	if source=='xicidaili':
 
 		if ssl:
-			res = requests.get("http://www.xicidaili.com/wn",headers=headers)
+			res = requests.get("http://www.xicidaili.com/wn/"+str(random.randint(1,11)),headers=headers)
 		else:
 			res = requests.get("http://www.xicidaili.com/wt",headers=headers)
 		html = etree.HTML(res.text)
