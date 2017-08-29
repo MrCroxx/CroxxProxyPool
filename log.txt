@@ -1,0 +1,1553 @@
+Get Proxy List ( 100 items) :
+<Proxy host = 112.85.9.5 port = 9131 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 42.243.112.143 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 110.216.18.59 port = 80 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 110.182.237.236 port = 53281 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 116.208.62.42 port = 53281 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 183.18.164.86 port = 3128 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 119.90.63.3 port = 3128 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 120.33.247.96 port = 808 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 110.153.184.246 port = 53281 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 220.166.64.174 port = 3128 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 210.26.54.43 port = 808 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 222.34.139.52 port = 808 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 183.18.164.89 port = 3128 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 110.182.51.158 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 221.8.172.82 port = 80 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 112.123.249.18 port = 9745 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 183.66.64.120 port = 3128 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 218.62.90.30 port = 53281 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 42.84.246.62 port = 80 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 221.200.78.138 port = 80 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 58.241.231.99 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 180.117.13.105 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 121.237.6.20 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 101.81.183.236 port = 53281 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 218.15.25.153 port = 808 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 110.73.41.14 port = 8123 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 112.114.94.174 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 218.29.111.106 port = 9999 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 121.31.100.39 port = 8123 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 114.221.0.64 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 115.200.29.9 port = 80 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 112.114.78.208 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 182.47.27.187 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 112.85.57.27 port = 9131 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 183.133.80.155 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 123.9.240.245 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 59.35.235.150 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 182.88.199.116 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 42.58.87.50 port = 80 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 112.123.42.103 port = 9745 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 36.249.172.105 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 113.128.90.207 port = 48888 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 113.128.90.229 port = 48888 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 112.233.59.200 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 125.37.176.143 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 114.115.210.154 port = 3128 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 112.123.248.29 port = 9745 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 112.85.0.199 port = 9131 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 113.128.90.52 port = 48888 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 112.85.104.33 port = 9131 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 123.138.89.133 port = 9999 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 112.85.72.187 port = 9131 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 36.40.83.39 port = 80 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 124.152.32.140 port = 53281 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 39.80.103.69 port = 53281 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 112.123.250.144 port = 9745 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 112.123.43.180 port = 9745 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 58.17.125.215 port = 53281 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 112.85.88.239 port = 9131 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 112.123.42.150 port = 9745 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 171.108.205.85 port = 53281 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 112.85.8.107 port = 9131 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 122.159.27.86 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 112.85.74.31 port = 9131 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 112.85.109.216 port = 9131 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 180.173.109.149 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 112.85.57.137 port = 9131 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 112.85.58.239 port = 9131 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 112.123.43.239 port = 9745 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 175.154.87.16 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 112.114.77.144 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 27.46.74.42 port = 9999 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 113.107.166.246 port = 808 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 112.85.8.163 port = 9131 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 61.183.152.82 port = 53281 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 183.18.164.94 port = 3128 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 112.85.110.187 port = 9131 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 112.85.88.107 port = 9131 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 121.63.193.48 port = 53281 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 180.173.54.155 port = 9000 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 163.142.69.127 port = 80 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 121.8.185.244 port = 53281 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 114.237.150.11 port = 9999 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 60.215.89.192 port = 80 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 112.85.86.183 port = 9131 timestamp = 2017-08-29 13:49:51.102000>
+Testing Proxy <Proxy host = 112.85.9.5 port = 9131 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 42.243.112.143 port = 8118 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 110.216.18.59 port = 80 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 110.182.237.236 port = 53281 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 116.208.62.42 port = 53281 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 183.18.164.86 port = 3128 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 119.90.63.3 port = 3128 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 120.33.247.96 port = 808 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 110.153.184.246 port = 53281 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 220.166.64.174 port = 3128 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 210.26.54.43 port = 808 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 222.34.139.52 port = 808 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 183.18.164.89 port = 3128 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 110.182.51.158 port = 8118 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 221.8.172.82 port = 80 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.123.249.18 port = 9745 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 183.66.64.120 port = 3128 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 218.62.90.30 port = 53281 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 42.84.246.62 port = 80 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 221.200.78.138 port = 80 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 58.241.231.99 port = 8118 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 180.117.13.105 port = 8118 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 121.237.6.20 port = 8118 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 101.81.183.236 port = 53281 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 218.15.25.153 port = 808 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 110.73.41.14 port = 8123 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.114.94.174 port = 8118 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 218.29.111.106 port = 9999 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 121.31.100.39 port = 8123 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 114.221.0.64 port = 8118 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 115.200.29.9 port = 80 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.114.78.208 port = 8118 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 182.47.27.187 port = 8118 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.57.27 port = 9131 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 183.133.80.155 port = 8118 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 123.9.240.245 port = 8118 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 59.35.235.150 port = 8118 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 182.88.199.116 port = 8118 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 42.58.87.50 port = 80 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.123.42.103 port = 9745 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 36.249.172.105 port = 8118 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 113.128.90.207 port = 48888 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 113.128.90.229 port = 48888 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.233.59.200 port = 8118 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 125.37.176.143 port = 8118 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 114.115.210.154 port = 3128 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.123.248.29 port = 9745 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.0.199 port = 9131 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 113.128.90.52 port = 48888 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.104.33 port = 9131 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 123.138.89.133 port = 9999 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.72.187 port = 9131 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 36.40.83.39 port = 80 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 124.152.32.140 port = 53281 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 39.80.103.69 port = 53281 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.123.250.144 port = 9745 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.123.43.180 port = 9745 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 58.17.125.215 port = 53281 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.88.239 port = 9131 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.123.42.150 port = 9745 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+[BAD] Testing Proxy<Proxy host = 42.84.246.62 port = 80 timestamp = 2017-08-29 13:49:51.102000> 
+<Proxy host = 171.108.205.85 port = 53281 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.8.107 port = 9131 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 122.159.27.86 port = 8118 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.74.31 port = 9131 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.109.216 port = 9131 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 180.173.109.149 port = 8118 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.57.137 port = 9131 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.58.239 port = 9131 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.123.43.239 port = 9745 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 175.154.87.16 port = 8118 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.114.77.144 port = 8118 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 27.46.74.42 port = 9999 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 113.107.166.246 port = 808 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+[BAD]Testing Proxy  <Proxy host = 120.33.247.96 port = 808 timestamp = 2017-08-29 13:49:51.102000><Proxy host = 112.85.8.163 port = 9131 timestamp = 2017-08-29 13:49:51.102000>
+ ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 61.183.152.82 port = 53281 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 183.18.164.94 port = 3128 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.110.187 port = 9131 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.88.107 port = 9131 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 121.63.193.48 port = 53281 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 180.173.54.155 port = 9000 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 163.142.69.127 port = 80 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 121.8.185.244 port = 53281 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 114.237.150.11 port = 9999 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 60.215.89.192 port = 80 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.86.183 port = 9131 timestamp = 2017-08-29 13:49:51.102000> ssl = True url = https://www.baidu.com
+[BAD] <Proxy host = 218.15.25.153 port = 808 timestamp = 2017-08-29 13:49:51.102000>
+[BAD] <Proxy host = 222.34.139.52 port = 808 timestamp = 2017-08-29 13:49:51.102000>
+[BAD] <Proxy host = 113.107.166.246 port = 808 timestamp = 2017-08-29 13:49:51.102000>
+[GOOD] <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:49:51.102000>
+PUSH :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:49:51.539000> [ 1 LEFT ]
+POP :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:49:51.539000> [ 0 LEFT ]
+[BAD] <Proxy host = 210.26.54.43 port = 808 timestamp = 2017-08-29 13:49:51.102000>
+[GOOD] <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:49:51.102000>
+PUSH :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:49:51.790000> [ 1 LEFT ]
+POP :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:49:51.790000> [ 0 LEFT ]
+[GOOD] <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:49:51.102000>
+PUSH :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:49:52.033000> [ 1 LEFT ]
+POP :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:49:52.033000> [ 0 LEFT ]
+[BAD] <Proxy host = 113.128.90.207 port = 48888 timestamp = 2017-08-29 13:49:51.102000>
+[BAD] <Proxy host = 182.47.27.187 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+[BAD] <Proxy host = 112.123.249.18 port = 9745 timestamp = 2017-08-29 13:49:51.102000>
+[BAD] <Proxy host = 113.128.90.229 port = 48888 timestamp = 2017-08-29 13:49:51.102000>
+[BAD] <Proxy host = 112.233.59.200 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+[GOOD] <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:49:51.102000>
+PUSH :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:49:52.448000> [ 1 LEFT ]
+POP :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:49:52.448000> [ 0 LEFT ]
+[BAD] <Proxy host = 112.123.248.29 port = 9745 timestamp = 2017-08-29 13:49:51.102000>
+[BAD] <Proxy host = 182.88.199.116 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+[BAD] <Proxy host = 60.215.89.192 port = 80 timestamp = 2017-08-29 13:49:51.102000>
+[BAD] <Proxy host = 112.85.74.31 port = 9131 timestamp = 2017-08-29 13:49:51.102000>
+[BAD] <Proxy host = 112.123.42.150 port = 9745 timestamp = 2017-08-29 13:49:51.102000>
+[BAD] <Proxy host = 171.108.205.85 port = 53281 timestamp = 2017-08-29 13:49:51.102000>
+[BAD] <Proxy host = 114.221.0.64 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+[BAD] <Proxy host = 183.18.164.94 port = 3128 timestamp = 2017-08-29 13:49:51.102000>
+[BAD] <Proxy host = 112.114.77.144 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+[GOOD] <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:49:51.102000>
+PUSH :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:49:52.918000> [ 1 LEFT ]
+POP :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:49:52.918000> [ 0 LEFT ]
+PUSH :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:49:52.918000> [ 1 LEFT ]
+POP :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:49:52.918000> [ 0 LEFT ]
+PUSH :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:49:52.918000> [ 1 LEFT ]
+POP :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:49:52.918000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:49:53.050000> [ 1 LEFT ]
+POP :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:49:53.050000> [ 0 LEFT ]
+PUSH :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:49:53.473000> [ 1 LEFT ]
+POP :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:49:53.473000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:49:53.567000> [ 1 LEFT ]
+POP :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:49:53.567000> [ 0 LEFT ]
+PUSH :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:49:53.919000> [ 1 LEFT ]
+POP :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:49:53.919000> [ 0 LEFT ]
+[BAD] <Proxy host = 110.182.51.158 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+[GOOD] <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:49:51.102000>
+PUSH :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:49:53.998000> [ 1 LEFT ]
+POP :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:49:53.998000> [ 0 LEFT ]
+[BAD] <Proxy host = 42.243.112.143 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+[BAD] <Proxy host = 125.37.176.143 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+[BAD] <Proxy host = 112.114.78.208 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+PUSH :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:49:54.477000> [ 1 LEFT ]
+POP :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:49:54.477000> [ 0 LEFT ]
+PUSH :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:49:54.477000> [ 1 LEFT ]
+POP :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:49:54.477000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:49:54.571000> [ 1 LEFT ]
+POP :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:49:54.571000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:49:54.571000> [ 1 LEFT ]
+POP :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:49:54.571000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:49:54.571000> [ 1 LEFT ]
+POP :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:49:54.571000> [ 0 LEFT ]
+[BAD] <Proxy host = 175.154.87.16 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+[BAD] <Proxy host = 112.85.9.5 port = 9131 timestamp = 2017-08-29 13:49:51.102000>
+[BAD] <Proxy host = 42.58.87.50 port = 80 timestamp = 2017-08-29 13:49:51.102000>
+[BAD] <Proxy host = 180.117.13.105 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+[BAD] <Proxy host = 180.173.109.149 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+[GOOD] <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:49:51.102000>
+PUSH :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:49:55.705000> [ 1 LEFT ]
+POP :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:49:55.705000> [ 0 LEFT ]
+[GOOD] <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:49:51.102000>
+PUSH :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:49:55.736000> [ 1 LEFT ]
+POP :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:49:55.736000> [ 0 LEFT ]
+[GOOD] <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:49:51.102000>
+PUSH :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:49:56.119000> [ 1 LEFT ]
+POP :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:49:56.119000> [ 0 LEFT ]
+[BAD] <Proxy host = 123.9.240.245 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+[BAD] <Proxy host = 121.237.6.20 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+PUSH :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:49:56.573000> [ 1 LEFT ]
+POP :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:49:56.573000> [ 0 LEFT ]
+PUSH :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:49:56.807000> [ 1 LEFT ]
+POP :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:49:56.807000> [ 0 LEFT ]
+PUSH :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:49:56.919000> [ 1 LEFT ]
+POP :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:49:56.919000> [ 0 LEFT ]
+PUSH :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:49:56.919000> [ 1 LEFT ]
+POP :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:49:56.919000> [ 0 LEFT ]
+[BAD] <Proxy host = 59.35.235.150 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+PUSH :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:49:57.003000> [ 1 LEFT ]
+POP :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:49:57.003000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:49:57.052000> [ 1 LEFT ]
+POP :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:49:57.052000> [ 0 LEFT ]
+[GOOD] <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:49:51.102000>
+PUSH :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:49:57.404000> [ 1 LEFT ]
+POP :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:49:57.404000> [ 0 LEFT ]
+PUSH :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:49:57.716000> [ 1 LEFT ]
+POP :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:49:57.716000> [ 0 LEFT ]
+PUSH :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:49:57.716000> [ 1 LEFT ]
+POP :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:49:57.716000> [ 0 LEFT ]
+PUSH :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:49:59.138000> [ 1 LEFT ]
+POP :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:49:59.138000> [ 0 LEFT ]
+PUSH :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:49:59.138000> [ 1 LEFT ]
+POP :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:49:59.138000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:49:59.420000> [ 1 LEFT ]
+POP :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:49:59.420000> [ 0 LEFT ]
+PUSH :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:49:59.482000> [ 1 LEFT ]
+POP :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:49:59.482000> [ 0 LEFT ]
+PUSH :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:49:59.732000> [ 1 LEFT ]
+POP :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:49:59.732000> [ 0 LEFT ]
+PUSH :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:49:59.810000> [ 1 LEFT ]
+POP :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:49:59.810000> [ 0 LEFT ]
+PUSH :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:00.009000> [ 1 LEFT ]
+POP :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:00.009000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:00.052000> [ 1 LEFT ]
+POP :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:00.052000> [ 0 LEFT ]
+[BAD] <Proxy host = 36.249.172.105 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+PUSH :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:00.580000> [ 1 LEFT ]
+POP :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:00.580000> [ 0 LEFT ]
+PUSH :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:00.751000> [ 1 LEFT ]
+POP :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:00.751000> [ 0 LEFT ]
+PUSH :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:00.751000> [ 1 LEFT ]
+POP :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:00.751000> [ 0 LEFT ]
+[GOOD] <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:49:51.102000>
+PUSH :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:01.101000> [ 1 LEFT ]
+POP :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:01.101000> [ 0 LEFT ]
+PUSH :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:01.148000> [ 1 LEFT ]
+POP :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:01.148000> [ 0 LEFT ]
+[BAD] <Proxy host = 112.114.94.174 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+[GOOD] <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:49:51.102000>
+PUSH :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:01.398000> [ 1 LEFT ]
+POP :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:01.398000> [ 0 LEFT ]
+PUSH :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:01.398000> [ 1 LEFT ]
+POP :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:01.398000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:01.585000> [ 1 LEFT ]
+POP :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:01.585000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:01.585000> [ 1 LEFT ]
+POP :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:01.585000> [ 0 LEFT ]
+PUSH :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:01.920000> [ 1 LEFT ]
+POP :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:01.920000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:03.110000> [ 1 LEFT ]
+POP :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:03.110000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:03.110000> [ 1 LEFT ]
+POP :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:03.110000> [ 0 LEFT ]
+[GOOD] <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:49:51.102000>
+PUSH :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:03.141000> [ 1 LEFT ]
+POP :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:03.141000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:03.423000> [ 1 LEFT ]
+POP :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:03.423000> [ 0 LEFT ]
+PUSH :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:03.485000> [ 1 LEFT ]
+POP :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:03.485000> [ 0 LEFT ]
+PUSH :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:03.921000> [ 1 LEFT ]
+POP :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:03.921000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:04.058000> [ 1 LEFT ]
+POP :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:04.058000> [ 0 LEFT ]
+PUSH :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:04.168000> [ 1 LEFT ]
+POP :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:04.168000> [ 0 LEFT ]
+PUSH :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:04.168000> [ 1 LEFT ]
+POP :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:04.168000> [ 0 LEFT ]
+[BAD] <Proxy host = 61.183.152.82 port = 53281 timestamp = 2017-08-29 13:49:51.102000>
+PUSH :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:04.747000> [ 1 LEFT ]
+POP :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:04.747000> [ 0 LEFT ]
+PUSH :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:04.825000> [ 1 LEFT ]
+POP :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:04.825000> [ 0 LEFT ]
+PUSH :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:05.021000> [ 1 LEFT ]
+POP :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:05.021000> [ 0 LEFT ]
+PUSH :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:05.412000> [ 1 LEFT ]
+POP :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:05.412000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:05.427000> [ 1 LEFT ]
+POP :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:05.427000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:05.599000> [ 1 LEFT ]
+POP :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:05.599000> [ 0 LEFT ]
+PUSH :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:05.756000> [ 1 LEFT ]
+POP :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:05.756000> [ 0 LEFT ]
+PUSH :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:05.922000> [ 1 LEFT ]
+POP :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:05.922000> [ 0 LEFT ]
+PUSH :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:06.030000> [ 1 LEFT ]
+POP :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:06.030000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:06.059000> [ 1 LEFT ]
+POP :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:06.059000> [ 0 LEFT ]
+PUSH :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:06.164000> [ 1 LEFT ]
+POP :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:06.164000> [ 0 LEFT ]
+[BAD] <Proxy host = 221.8.172.82 port = 80 timestamp = 2017-08-29 13:49:51.102000>
+PUSH :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:06.413000> [ 1 LEFT ]
+POP :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:06.413000> [ 0 LEFT ]
+PUSH :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:06.491000> [ 1 LEFT ]
+POP :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:06.491000> [ 0 LEFT ]
+PUSH :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:06.772000> [ 1 LEFT ]
+POP :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:06.772000> [ 0 LEFT ]
+PUSH :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:06.772000> [ 1 LEFT ]
+POP :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:06.772000> [ 0 LEFT ]
+PUSH :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:06.826000> [ 1 LEFT ]
+POP :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:06.826000> [ 0 LEFT ]
+PUSH :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:06.923000> [ 1 LEFT ]
+POP :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:06.923000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:07.121000> [ 1 LEFT ]
+POP :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:07.121000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:07.121000> [ 1 LEFT ]
+POP :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:07.121000> [ 0 LEFT ]
+PUSH :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:07.184000> [ 1 LEFT ]
+POP :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:07.184000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:07.434000> [ 1 LEFT ]
+POP :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:07.434000> [ 0 LEFT ]
+PUSH :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:07.497000> [ 1 LEFT ]
+POP :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:07.497000> [ 0 LEFT ]
+PUSH :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:07.497000> [ 1 LEFT ]
+POP :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:07.497000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:08.130000> [ 1 LEFT ]
+POP :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:08.130000> [ 0 LEFT ]
+PUSH :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:08.428000> [ 1 LEFT ]
+POP :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:08.428000> [ 0 LEFT ]
+PUSH :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:08.506000> [ 1 LEFT ]
+POP :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:08.506000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:08.615000> [ 1 LEFT ]
+POP :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:08.615000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:08.615000> [ 1 LEFT ]
+POP :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:08.615000> [ 0 LEFT ]
+PUSH :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:08.787000> [ 1 LEFT ]
+POP :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:08.787000> [ 0 LEFT ]
+PUSH :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:08.787000> [ 1 LEFT ]
+POP :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:08.787000> [ 0 LEFT ]
+PUSH :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:08.834000> [ 1 LEFT ]
+POP :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:08.834000> [ 0 LEFT ]
+PUSH :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:08.834000> [ 1 LEFT ]
+POP :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:08.834000> [ 0 LEFT ]
+PUSH :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:08.923000> [ 1 LEFT ]
+POP :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:08.923000> [ 0 LEFT ]
+PUSH :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:09.165000> [ 1 LEFT ]
+POP :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:09.165000> [ 0 LEFT ]
+PUSH :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:09.749000> [ 1 LEFT ]
+POP :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:09.749000> [ 0 LEFT ]
+PUSH :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:10.034000> [ 1 LEFT ]
+POP :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:10.034000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:10.450000> [ 1 LEFT ]
+POP :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:10.450000> [ 0 LEFT ]
+PUSH :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:10.512000> [ 1 LEFT ]
+POP :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:10.512000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:11.068000> [ 1 LEFT ]
+POP :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:11.068000> [ 0 LEFT ]
+PUSH :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:11.193000> [ 1 LEFT ]
+POP :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:11.193000> [ 0 LEFT ]
+PUSH :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:11.193000> [ 1 LEFT ]
+POP :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:11.193000> [ 0 LEFT ]
+PUSH :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:11.443000> [ 1 LEFT ]
+POP :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:11.443000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:11.459000> [ 1 LEFT ]
+POP :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:11.459000> [ 0 LEFT ]
+[BAD] <Proxy host = 221.200.78.138 port = 80 timestamp = 2017-08-29 13:49:51.102000>
+[BAD] <Proxy host = 110.216.18.59 port = 80 timestamp = 2017-08-29 13:49:51.102000>
+[BAD][BAD]  <Proxy host = 110.153.184.246 port = 53281 timestamp = 2017-08-29 13:49:51.102000><Proxy host = 110.182.237.236 port = 53281 timestamp = 2017-08-29 13:49:51.102000>
+
+[BAD] <Proxy host = 220.166.64.174 port = 3128 timestamp = 2017-08-29 13:49:51.102000>
+[BAD] <Proxy host = 119.90.63.3 port = 3128 timestamp = 2017-08-29 13:49:51.102000>
+[BAD] [BAD]<Proxy host = 101.81.183.236 port = 53281 timestamp = 2017-08-29 13:49:51.102000> 
+<Proxy host = 110.73.41.14 port = 8123 timestamp = 2017-08-29 13:49:51.102000>[BAD]
+ <Proxy host = 58.241.231.99 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+ [BAD] <Proxy host = 218.62.90.30 port = 53281 timestamp = 2017-08-29 13:49:51.102000>
+[BAD][BAD] [BAD] <Proxy host = 112.85.57.27 port = 9131 timestamp = 2017-08-29 13:49:51.102000> <Proxy host = 183.133.80.155 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+ <Proxy host = 121.31.100.39 port = 8123 timestamp = 2017-08-29 13:49:51.102000>
+[BAD][BAD]
+[BAD]   <Proxy host = 218.29.111.106 port = 9999 timestamp = 2017-08-29 13:49:51.102000><Proxy host = 115.200.29.9 port = 80 timestamp = 2017-08-29 13:49:51.102000><Proxy host = 112.123.42.103 port = 9745 timestamp = 2017-08-29 13:49:51.102000>
+
+
+[BAD] <Proxy host = 112.85.0.199 port = 9131 timestamp = 2017-08-29 13:49:51.102000>[BAD][BAD]
+  <Proxy host = 112.85.104.33 port = 9131 timestamp = 2017-08-29 13:49:51.102000><Proxy host = 113.128.90.52 port = 48888 timestamp = 2017-08-29 13:49:51.102000>[BAD]
+
+  [BAD]<Proxy host = 123.138.89.133 port = 9999 timestamp = 2017-08-29 13:49:51.102000>[BAD] 
+ <Proxy host = 112.123.250.144 port = 9745 timestamp = 2017-08-29 13:49:51.102000><Proxy host = 112.85.72.187 port = 9131 timestamp = 2017-08-29 13:49:51.102000>
+
+[BAD] [BAD][BAD]<Proxy host = 124.152.32.140 port = 53281 timestamp = 2017-08-29 13:49:51.102000>  
+<Proxy host = 36.40.83.39 port = 80 timestamp = 2017-08-29 13:49:51.102000><Proxy host = 39.80.103.69 port = 53281 timestamp = 2017-08-29 13:49:51.102000>
+
+[BAD] <Proxy host = 112.85.88.239 port = 9131 timestamp = 2017-08-29 13:49:51.102000>[BAD]
+ [BAD]<Proxy host = 112.123.43.180 port = 9745 timestamp = 2017-08-29 13:49:51.102000> 
+<Proxy host = 112.85.8.107 port = 9131 timestamp = 2017-08-29 13:49:51.102000>
+[BAD] <Proxy host = 112.85.57.137 port = 9131 timestamp = 2017-08-29 13:49:51.102000>
+ [BAD] <Proxy host = 122.159.27.86 port = 8118 timestamp = 2017-08-29 13:49:51.102000>
+[BAD][BAD]  <Proxy host = 112.85.109.216 port = 9131 timestamp = 2017-08-29 13:49:51.102000>[BAD]<Proxy host = 112.123.43.239 port = 9745 timestamp = 2017-08-29 13:49:51.102000>
+ 
+<Proxy host = 112.85.58.239 port = 9131 timestamp = 2017-08-29 13:49:51.102000>
+[BAD][BAD] [BAD] <Proxy host = 121.63.193.48 port = 53281 timestamp = 2017-08-29 13:49:51.102000> [BAD]<Proxy host = 27.46.74.42 port = 9999 timestamp = 2017-08-29 13:49:51.102000>
+<Proxy host = 114.237.150.11 port = 9999 timestamp = 2017-08-29 13:49:51.102000> [BAD]
+
+<Proxy host = 112.85.8.163 port = 9131 timestamp = 2017-08-29 13:49:51.102000> 
+<Proxy host = 180.173.54.155 port = 9000 timestamp = 2017-08-29 13:49:51.102000>
+[BAD] [BAD]<Proxy host = 121.8.185.244 port = 53281 timestamp = 2017-08-29 13:49:51.102000> [BAD]
+<Proxy host = 112.85.110.187 port = 9131 timestamp = 2017-08-29 13:49:51.102000>  [BAD]
+[BAD]<Proxy host = 163.142.69.127 port = 80 timestamp = 2017-08-29 13:49:51.102000>  
+<Proxy host = 112.85.86.183 port = 9131 timestamp = 2017-08-29 13:49:51.102000><Proxy host = 112.85.88.107 port = 9131 timestamp = 2017-08-29 13:49:51.102000>
+
+PUSH :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:12.618000> [ 1 LEFT ]
+POP :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:12.618000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:13.069000> [ 1 LEFT ]
+POP :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:13.069000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:13.136000> [ 1 LEFT ]
+POP :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:13.136000> [ 0 LEFT ]
+PUSH :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:13.199000> [ 1 LEFT ]
+POP :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:13.199000> [ 0 LEFT ]
+[BAD] <Proxy host = 58.17.125.215 port = 53281 timestamp = 2017-08-29 13:49:51.102000>
+PUSH :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:13.761000> [ 1 LEFT ]
+POP :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:13.761000> [ 0 LEFT ]
+PUSH :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:13.761000> [ 1 LEFT ]
+POP :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:13.761000> [ 0 LEFT ]
+PUSH :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:13.761000> [ 1 LEFT ]
+POP :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:13.761000> [ 0 LEFT ]
+PUSH :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:13.793000> [ 1 LEFT ]
+POP :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:13.793000> [ 0 LEFT ]
+PUSH :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:13.835000> [ 1 LEFT ]
+POP :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:13.835000> [ 0 LEFT ]
+PUSH :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:13.925000> [ 1 LEFT ]
+POP :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:13.925000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:14.083000> [ 1 LEFT ]
+POP :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:14.083000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:14.146000> [ 1 LEFT ]
+POP :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:14.146000> [ 0 LEFT ]
+PUSH :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:14.177000> [ 1 LEFT ]
+POP :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:14.177000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:14.474000> [ 1 LEFT ]
+POP :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:14.474000> [ 0 LEFT ]
+PUSH :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:14.521000> [ 1 LEFT ]
+POP :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:14.521000> [ 0 LEFT ]
+PUSH :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:14.771000> [ 1 LEFT ]
+POP :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:14.771000> [ 0 LEFT ]
+PUSH :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:15.035000> [ 1 LEFT ]
+POP :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:15.035000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:15.086000> [ 1 LEFT ]
+POP :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:15.086000> [ 0 LEFT ]
+PUSH :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:16.188000> [ 1 LEFT ]
+POP :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:16.188000> [ 0 LEFT ]
+PUSH :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:16.203000> [ 1 LEFT ]
+POP :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:16.203000> [ 0 LEFT ]
+PUSH :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:16.454000> [ 1 LEFT ]
+POP :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:16.454000> [ 0 LEFT ]
+PUSH :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:16.532000> [ 1 LEFT ]
+POP :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:16.532000> [ 0 LEFT ]
+PUSH :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:16.782000> [ 1 LEFT ]
+POP :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:16.782000> [ 0 LEFT ]
+PUSH :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:16.798000> [ 1 LEFT ]
+POP :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:16.798000> [ 0 LEFT ]
+PUSH :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:16.798000> [ 1 LEFT ]
+POP :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:16.798000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:17.088000> [ 1 LEFT ]
+POP :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:17.088000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:17.620000> [ 1 LEFT ]
+POP :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:17.620000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:17.620000> [ 1 LEFT ]
+POP :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:17.620000> [ 0 LEFT ]
+[GOOD] <Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:49:51.102000>
+PUSH :  <Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:50:17.729000> [ 1 LEFT ]
+POP :  <Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:50:17.729000> [ 0 LEFT ]
+PUSH :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:17.836000> [ 1 LEFT ]
+POP :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:17.836000> [ 0 LEFT ]
+PUSH :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:17.925000> [ 1 LEFT ]
+POP :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:17.925000> [ 0 LEFT ]
+PUSH :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:18.216000> [ 1 LEFT ]
+POP :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:18.216000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:18.483000> [ 1 LEFT ]
+POP :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:18.483000> [ 0 LEFT ]
+PUSH :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:18.796000> [ 1 LEFT ]
+POP :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:18.796000> [ 0 LEFT ]
+PUSH :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:19.036000> [ 1 LEFT ]
+POP :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:19.036000> [ 0 LEFT ]
+PUSH :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:19.036000> [ 1 LEFT ]
+POP :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:19.036000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:19.154000> [ 1 LEFT ]
+POP :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:19.154000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:19.497000> [ 1 LEFT ]
+POP :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:19.497000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:19.497000> [ 1 LEFT ]
+POP :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:19.497000> [ 0 LEFT ]
+PUSH :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:19.811000> [ 1 LEFT ]
+POP :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:19.811000> [ 0 LEFT ]
+PUSH :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:20.038000> [ 1 LEFT ]
+POP :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:20.038000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:20.163000> [ 1 LEFT ]
+POP :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:20.163000> [ 0 LEFT ]
+PUSH :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:20.461000> [ 1 LEFT ]
+POP :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:20.461000> [ 0 LEFT ]
+PUSH :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:20.461000> [ 1 LEFT ]
+POP :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:20.461000> [ 0 LEFT ]
+[GOOD] <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:49:51.102000>
+PUSH :  <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:50:20.570000> [ 1 LEFT ]
+POP :  <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:50:20.570000> [ 0 LEFT ]
+[BAD] <Proxy host = 114.115.210.154 port = 3128 timestamp = 2017-08-29 13:49:51.102000>
+PUSH :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:20.936000> [ 1 LEFT ]
+POP :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:20.936000> [ 0 LEFT ]
+PUSH :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:20.936000> [ 1 LEFT ]
+POP :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:20.936000> [ 0 LEFT ]
+PUSH :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:21.040000> [ 1 LEFT ]
+POP :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:21.040000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:21.102000> [ 1 LEFT ]
+POP :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:21.102000> [ 0 LEFT ]
+PUSH :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:21.196000> [ 1 LEFT ]
+POP :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:21.196000> [ 0 LEFT ]
+PUSH :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:21.227000> [ 1 LEFT ]
+POP :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:21.227000> [ 0 LEFT ]
+PUSH :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:21.540000> [ 1 LEFT ]
+POP :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:21.540000> [ 0 LEFT ]
+PUSH :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:21.540000> [ 1 LEFT ]
+POP :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:21.540000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:21.634000> [ 1 LEFT ]
+POP :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:21.634000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:21.634000> [ 1 LEFT ]
+POP :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:21.634000> [ 0 LEFT ]
+PUSH :  <Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:50:21.743000> [ 1 LEFT ]
+POP :  <Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:50:21.743000> [ 0 LEFT ]
+PUSH :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:22.040000> [ 1 LEFT ]
+POP :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:22.040000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:22.105000> [ 1 LEFT ]
+POP :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:22.105000> [ 0 LEFT ]
+PUSH :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:22.199000> [ 1 LEFT ]
+POP :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:22.199000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:50:22.589000> [ 1 LEFT ]
+POP :  <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:50:22.589000> [ 0 LEFT ]
+PUSH :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:22.808000> [ 1 LEFT ]
+POP :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:22.808000> [ 0 LEFT ]
+PUSH :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:22.824000> [ 1 LEFT ]
+POP :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:22.824000> [ 0 LEFT ]
+PUSH :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:22.837000> [ 1 LEFT ]
+POP :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:22.837000> [ 0 LEFT ]
+PUSH :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:22.837000> [ 1 LEFT ]
+POP :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:22.837000> [ 0 LEFT ]
+PUSH :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:23.051000> [ 1 LEFT ]
+POP :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:23.051000> [ 0 LEFT ]
+PUSH :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:23.051000> [ 1 LEFT ]
+POP :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:23.051000> [ 0 LEFT ]
+PUSH :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:23.051000> [ 1 LEFT ]
+POP :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:23.051000> [ 0 LEFT ]
+PUSH :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:23.239000> [ 1 LEFT ]
+POP :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:23.239000> [ 0 LEFT ]
+PUSH :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:23.474000> [ 1 LEFT ]
+POP :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:23.474000> [ 0 LEFT ]
+PUSH :  <Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:50:23.756000> [ 1 LEFT ]
+POP :  <Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:50:23.756000> [ 0 LEFT ]
+PUSH :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:23.952000> [ 1 LEFT ]
+POP :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:23.952000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:24.118000> [ 1 LEFT ]
+POP :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:24.118000> [ 0 LEFT ]
+PUSH :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:24.212000> [ 1 LEFT ]
+POP :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:24.212000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:24.509000> [ 1 LEFT ]
+POP :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:24.509000> [ 0 LEFT ]
+PUSH :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:24.953000> [ 1 LEFT ]
+POP :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:24.953000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:25.174000> [ 1 LEFT ]
+POP :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:25.174000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:25.174000> [ 1 LEFT ]
+POP :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:25.174000> [ 0 LEFT ]
+PUSH :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:25.252000> [ 1 LEFT ]
+POP :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:25.252000> [ 0 LEFT ]
+PUSH :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:25.486000> [ 1 LEFT ]
+POP :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:25.486000> [ 0 LEFT ]
+PUSH :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:25.486000> [ 1 LEFT ]
+POP :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:25.486000> [ 0 LEFT ]
+PUSH :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:25.549000> [ 1 LEFT ]
+POP :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:25.549000> [ 0 LEFT ]
+PUSH :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:25.815000> [ 1 LEFT ]
+POP :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:25.815000> [ 0 LEFT ]
+PUSH :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:25.830000> [ 1 LEFT ]
+POP :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:25.830000> [ 0 LEFT ]
+PUSH :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:26.496000> [ 1 LEFT ]
+POP :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:26.496000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:50:26.590000> [ 1 LEFT ]
+POP :  <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:50:26.590000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:50:26.590000> [ 1 LEFT ]
+POP :  <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:50:26.590000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:26.637000> [ 1 LEFT ]
+POP :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:26.637000> [ 0 LEFT ]
+PUSH :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:26.838000> [ 1 LEFT ]
+POP :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:26.838000> [ 0 LEFT ]
+PUSH :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:27.224000> [ 1 LEFT ]
+POP :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:27.224000> [ 0 LEFT ]
+PUSH :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:28.065000> [ 1 LEFT ]
+POP :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:28.065000> [ 0 LEFT ]
+[GOOD] <Proxy host = 183.18.164.86 port = 3128 timestamp = 2017-08-29 13:49:51.102000>
+PUSH :  <Proxy host = 183.18.164.86 port = 3128 timestamp = 2017-08-29 13:50:28.065000> [ 1 LEFT ]
+POP :  <Proxy host = 183.18.164.86 port = 3128 timestamp = 2017-08-29 13:50:28.065000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:50:28.600000> [ 1 LEFT ]
+POP :  <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:50:28.600000> [ 0 LEFT ]
+PUSH :  <Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:50:28.757000> [ 1 LEFT ]
+POP :  <Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:50:28.757000> [ 0 LEFT ]
+PUSH :  <Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:50:28.757000> [ 1 LEFT ]
+POP :  <Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:50:28.757000> [ 0 LEFT ]
+PUSH :  <Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:50:28.757000> [ 1 LEFT ]
+POP :  <Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:50:28.757000> [ 0 LEFT ]
+PUSH :  <Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:50:28.757000> [ 1 LEFT ]
+POP :  <Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:50:28.757000> [ 0 LEFT ]
+PUSH :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:28.839000> [ 1 LEFT ]
+POP :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:28.839000> [ 0 LEFT ]
+PUSH :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:28.954000> [ 1 LEFT ]
+POP :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:28.954000> [ 0 LEFT ]
+PUSH :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:29.079000> [ 1 LEFT ]
+POP :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:29.079000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:29.126000> [ 1 LEFT ]
+POP :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:29.126000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:29.126000> [ 1 LEFT ]
+POP :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:29.126000> [ 0 LEFT ]
+PUSH :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:29.266000> [ 1 LEFT ]
+POP :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:29.266000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:29.516000> [ 1 LEFT ]
+POP :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:29.516000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:29.516000> [ 1 LEFT ]
+POP :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:29.516000> [ 0 LEFT ]
+PUSH :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:29.831000> [ 1 LEFT ]
+POP :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:29.831000> [ 0 LEFT ]
+PUSH :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:29.840000> [ 1 LEFT ]
+POP :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:29.840000> [ 0 LEFT ]
+PUSH :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:29.964000> [ 1 LEFT ]
+POP :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:29.964000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:30.178000> [ 1 LEFT ]
+POP :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:30.178000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:30.178000> [ 1 LEFT ]
+POP :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:30.178000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:30.178000> [ 1 LEFT ]
+POP :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:30.178000> [ 0 LEFT ]
+PUSH :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:30.225000> [ 1 LEFT ]
+POP :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:30.225000> [ 0 LEFT ]
+PUSH :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:30.500000> [ 1 LEFT ]
+POP :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:30.500000> [ 0 LEFT ]
+PUSH :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:30.563000> [ 1 LEFT ]
+POP :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:30.563000> [ 0 LEFT ]
+PUSH :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:30.829000> [ 1 LEFT ]
+POP :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:30.829000> [ 0 LEFT ]
+PUSH :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:30.971000> [ 1 LEFT ]
+POP :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:30.971000> [ 0 LEFT ]
+PUSH :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:31.278000> [ 1 LEFT ]
+POP :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:31.278000> [ 0 LEFT ]
+PUSH :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:31.575000> [ 1 LEFT ]
+POP :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:31.575000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:31.653000> [ 1 LEFT ]
+POP :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:31.653000> [ 0 LEFT ]
+PUSH :  <Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:50:31.763000> [ 1 LEFT ]
+POP :  <Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:50:31.763000> [ 0 LEFT ]
+PUSH :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:31.829000> [ 1 LEFT ]
+POP :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:31.829000> [ 0 LEFT ]
+PUSH :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:31.974000> [ 1 LEFT ]
+POP :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:31.974000> [ 0 LEFT ]
+PUSH :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:31.974000> [ 1 LEFT ]
+POP :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:31.974000> [ 0 LEFT ]
+PUSH :  <Proxy host = 183.18.164.86 port = 3128 timestamp = 2017-08-29 13:50:32.084000> [ 1 LEFT ]
+POP :  <Proxy host = 183.18.164.86 port = 3128 timestamp = 2017-08-29 13:50:32.084000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:32.131000> [ 1 LEFT ]
+POP :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:32.131000> [ 0 LEFT ]
+PUSH :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:32.585000> [ 1 LEFT ]
+POP :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:32.585000> [ 0 LEFT ]
+PUSH :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:32.830000> [ 1 LEFT ]
+POP :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:32.830000> [ 0 LEFT ]
+PUSH :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:32.841000> [ 1 LEFT ]
+POP :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:32.841000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:33.140000> [ 1 LEFT ]
+POP :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:33.140000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:33.531000> [ 1 LEFT ]
+POP :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:33.531000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:50:33.609000> [ 1 LEFT ]
+POP :  <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:50:33.609000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:50:33.609000> [ 1 LEFT ]
+POP :  <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:50:33.609000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:50:33.609000> [ 1 LEFT ]
+POP :  <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:50:33.609000> [ 0 LEFT ]
+PUSH :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:33.986000> [ 1 LEFT ]
+POP :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:33.986000> [ 0 LEFT ]
+PUSH :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:34.090000> [ 1 LEFT ]
+POP :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:34.090000> [ 0 LEFT ]
+PUSH :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:34.231000> [ 1 LEFT ]
+POP :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:34.231000> [ 0 LEFT ]
+PUSH :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:34.591000> [ 1 LEFT ]
+POP :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:34.591000> [ 0 LEFT ]
+PUSH :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:34.831000> [ 1 LEFT ]
+POP :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:34.831000> [ 0 LEFT ]
+PUSH :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:34.832000> [ 1 LEFT ]
+POP :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:34.832000> [ 0 LEFT ]
+PUSH :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:34.832000> [ 1 LEFT ]
+POP :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:34.832000> [ 0 LEFT ]
+PUSH :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:34.842000> [ 1 LEFT ]
+POP :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:34.842000> [ 0 LEFT ]
+PUSH :  <Proxy host = 183.18.164.86 port = 3128 timestamp = 2017-08-29 13:50:35.091000> [ 1 LEFT ]
+POP :  <Proxy host = 183.18.164.86 port = 3128 timestamp = 2017-08-29 13:50:35.091000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:35.184000> [ 1 LEFT ]
+POP :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:35.184000> [ 0 LEFT ]
+PUSH :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:35.512000> [ 1 LEFT ]
+POP :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:35.512000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:35.669000> [ 1 LEFT ]
+POP :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:35.669000> [ 0 LEFT ]
+PUSH :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:35.843000> [ 1 LEFT ]
+POP :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:35.843000> [ 0 LEFT ]
+PUSH :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:35.990000> [ 1 LEFT ]
+POP :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:35.990000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:36.186000> [ 1 LEFT ]
+POP :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:36.186000> [ 0 LEFT ]
+PUSH :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:36.280000> [ 1 LEFT ]
+POP :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:36.280000> [ 0 LEFT ]
+[GOOD] <Proxy host = 183.66.64.120 port = 3128 timestamp = 2017-08-29 13:49:51.102000>
+PUSH :  <Proxy host = 183.66.64.120 port = 3128 timestamp = 2017-08-29 13:50:36.389000> [ 1 LEFT ]
+POP :  <Proxy host = 183.66.64.120 port = 3128 timestamp = 2017-08-29 13:50:36.389000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:50:36.624000> [ 1 LEFT ]
+POP :  <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:50:36.624000> [ 0 LEFT ]
+PUSH :  <Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:50:36.765000> [ 1 LEFT ]
+POP :  <Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:50:36.765000> [ 0 LEFT ]
+PUSH :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:36.833000> [ 1 LEFT ]
+POP :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:36.833000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:37.196000> [ 1 LEFT ]
+POP :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:37.196000> [ 0 LEFT ]
+PUSH :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:37.242000> [ 1 LEFT ]
+POP :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:37.242000> [ 0 LEFT ]
+PUSH :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:37.603000> [ 1 LEFT ]
+POP :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:37.603000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:37.681000> [ 1 LEFT ]
+POP :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:37.681000> [ 0 LEFT ]
+PUSH :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:37.831000> [ 1 LEFT ]
+POP :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:37.831000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:38.143000> [ 1 LEFT ]
+POP :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:38.143000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:38.143000> [ 1 LEFT ]
+POP :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:38.143000> [ 0 LEFT ]
+PUSH :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:38.519000> [ 1 LEFT ]
+POP :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:38.519000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:38.534000> [ 1 LEFT ]
+POP :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:38.534000> [ 0 LEFT ]
+PUSH :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:38.613000> [ 1 LEFT ]
+POP :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:38.613000> [ 0 LEFT ]
+PUSH :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:38.832000> [ 1 LEFT ]
+POP :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:38.832000> [ 0 LEFT ]
+PUSH :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:38.843000> [ 1 LEFT ]
+POP :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:38.843000> [ 0 LEFT ]
+PUSH :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:39.100000> [ 1 LEFT ]
+POP :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:39.100000> [ 0 LEFT ]
+PUSH :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:39.100000> [ 1 LEFT ]
+POP :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:39.100000> [ 0 LEFT ]
+PUSH :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:39.288000> [ 1 LEFT ]
+POP :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:39.288000> [ 0 LEFT ]
+PUSH :  <Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:50:39.773000> [ 1 LEFT ]
+POP :  <Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:50:39.773000> [ 0 LEFT ]
+PUSH :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:39.835000> [ 1 LEFT ]
+POP :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:39.835000> [ 0 LEFT ]
+PUSH :  <Proxy host = 183.18.164.86 port = 3128 timestamp = 2017-08-29 13:50:40.107000> [ 1 LEFT ]
+POP :  <Proxy host = 183.18.164.86 port = 3128 timestamp = 2017-08-29 13:50:40.107000> [ 0 LEFT ]
+PUSH :  <Proxy host = 183.18.164.86 port = 3128 timestamp = 2017-08-29 13:50:40.107000> [ 1 LEFT ]
+POP :  <Proxy host = 183.18.164.86 port = 3128 timestamp = 2017-08-29 13:50:40.107000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:50:40.638000> [ 1 LEFT ]
+POP :  <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:50:40.638000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:40.685000> [ 1 LEFT ]
+POP :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:40.685000> [ 0 LEFT ]
+PUSH :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:41.004000> [ 1 LEFT ]
+POP :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:41.004000> [ 0 LEFT ]
+PUSH :  <Proxy host = 183.18.164.86 port = 3128 timestamp = 2017-08-29 13:50:41.114000> [ 1 LEFT ]
+POP :  <Proxy host = 183.18.164.86 port = 3128 timestamp = 2017-08-29 13:50:41.114000> [ 0 LEFT ]
+PUSH :  <Proxy host = 183.66.64.120 port = 3128 timestamp = 2017-08-29 13:50:41.411000> [ 1 LEFT ]
+POP :  <Proxy host = 183.66.64.120 port = 3128 timestamp = 2017-08-29 13:50:41.411000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:41.536000> [ 1 LEFT ]
+POP :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:41.536000> [ 0 LEFT ]
+PUSH :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:41.614000> [ 1 LEFT ]
+POP :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:41.614000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:50:41.645000> [ 1 LEFT ]
+POP :  <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:50:41.645000> [ 0 LEFT ]
+PUSH :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:41.833000> [ 1 LEFT ]
+POP :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:41.833000> [ 0 LEFT ]
+PUSH :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:42.014000> [ 1 LEFT ]
+POP :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:42.014000> [ 0 LEFT ]
+PUSH :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:42.014000> [ 1 LEFT ]
+POP :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:42.014000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:42.148000> [ 1 LEFT ]
+POP :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:42.148000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:42.211000> [ 1 LEFT ]
+POP :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:42.211000> [ 0 LEFT ]
+PUSH :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:42.258000> [ 1 LEFT ]
+POP :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:42.258000> [ 0 LEFT ]
+PUSH :  <Proxy host = 183.66.64.120 port = 3128 timestamp = 2017-08-29 13:50:42.414000> [ 1 LEFT ]
+POP :  <Proxy host = 183.66.64.120 port = 3128 timestamp = 2017-08-29 13:50:42.414000> [ 0 LEFT ]
+PUSH :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:43.017000> [ 1 LEFT ]
+POP :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:43.017000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:43.220000> [ 1 LEFT ]
+POP :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:43.220000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:43.220000> [ 1 LEFT ]
+POP :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:43.220000> [ 0 LEFT ]
+PUSH :  <Proxy host = 183.66.64.120 port = 3128 timestamp = 2017-08-29 13:50:43.424000> [ 1 LEFT ]
+POP :  <Proxy host = 183.66.64.120 port = 3128 timestamp = 2017-08-29 13:50:43.424000> [ 0 LEFT ]
+PUSH :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:43.533000> [ 1 LEFT ]
+POP :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:43.533000> [ 0 LEFT ]
+PUSH :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:43.533000> [ 1 LEFT ]
+POP :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:43.533000> [ 0 LEFT ]
+PUSH :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:43.549000> [ 1 LEFT ]
+POP :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:43.549000> [ 0 LEFT ]
+PUSH :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:43.844000> [ 1 LEFT ]
+POP :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:43.844000> [ 0 LEFT ]
+PUSH :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:43.844000> [ 1 LEFT ]
+POP :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:43.844000> [ 0 LEFT ]
+PUSH :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:44.111000> [ 1 LEFT ]
+POP :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:44.111000> [ 0 LEFT ]
+PUSH :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:44.267000> [ 1 LEFT ]
+POP :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:44.267000> [ 0 LEFT ]
+PUSH :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:44.298000> [ 1 LEFT ]
+POP :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:44.298000> [ 0 LEFT ]
+PUSH :  <Proxy host = 183.66.64.120 port = 3128 timestamp = 2017-08-29 13:50:44.439000> [ 1 LEFT ]
+POP :  <Proxy host = 183.66.64.120 port = 3128 timestamp = 2017-08-29 13:50:44.439000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:50:44.658000> [ 1 LEFT ]
+POP :  <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:50:44.658000> [ 0 LEFT ]
+PUSH :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:44.689000> [ 1 LEFT ]
+POP :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:44.689000> [ 0 LEFT ]
+PUSH :  <Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:50:44.783000> [ 1 LEFT ]
+PUSH :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:44.837000> [ 2 LEFT ]
+PUSH :  <Proxy host = 183.18.164.86 port = 3128 timestamp = 2017-08-29 13:50:45.115000> [ 3 LEFT ]
+PUSH :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:45.538000> [ 4 LEFT ]
+PUSH :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:45.616000> [ 5 LEFT ]
+PUSH :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:45.834000> [ 6 LEFT ]
+PUSH :  <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:46.112000> [ 7 LEFT ]
+PUSH :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:46.152000> [ 8 LEFT ]
+PUSH :  <Proxy host = 183.66.64.120 port = 3128 timestamp = 2017-08-29 13:50:46.450000> [ 9 LEFT ]
+PUSH :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:46.844000> [ 10 LEFT ]
+PUSH :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:47.271000> [ 11 LEFT ]
+PUSH :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:48.030000> [ 12 LEFT ]
+PUSH :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:48.226000> [ 13 LEFT ]
+PUSH :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:48.305000> [ 14 LEFT ]
+PUSH :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:48.555000> [ 15 LEFT ]
+PUSH :  <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:50:48.665000> [ 16 LEFT ]
+PUSH :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:48.696000> [ 17 LEFT ]
+Get Proxy List ( 100 items) :
+<Proxy host = 112.85.9.5 port = 9131 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 42.243.112.143 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 110.216.18.59 port = 80 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 110.182.237.236 port = 53281 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 116.208.62.42 port = 53281 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 183.18.164.86 port = 3128 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 119.90.63.3 port = 3128 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 120.33.247.96 port = 808 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 110.153.184.246 port = 53281 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 220.166.64.174 port = 3128 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 210.26.54.43 port = 808 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 222.34.139.52 port = 808 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 183.18.164.89 port = 3128 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 110.182.51.158 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 221.8.172.82 port = 80 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 112.123.249.18 port = 9745 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 183.66.64.120 port = 3128 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 218.62.90.30 port = 53281 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 42.84.246.62 port = 80 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 221.200.78.138 port = 80 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 58.241.231.99 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 180.117.13.105 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 121.237.6.20 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 101.81.183.236 port = 53281 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 218.15.25.153 port = 808 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 110.73.41.14 port = 8123 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 112.114.94.174 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 218.29.111.106 port = 9999 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 121.31.100.39 port = 8123 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 114.221.0.64 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 115.200.29.9 port = 80 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 112.114.78.208 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 182.47.27.187 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 112.85.57.27 port = 9131 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 183.133.80.155 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 123.9.240.245 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 59.35.235.150 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 182.88.199.116 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 42.58.87.50 port = 80 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 112.123.42.103 port = 9745 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 36.249.172.105 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 113.128.90.207 port = 48888 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 113.128.90.229 port = 48888 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 112.233.59.200 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 125.37.176.143 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 114.115.210.154 port = 3128 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 112.123.248.29 port = 9745 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 112.85.0.199 port = 9131 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 113.128.90.52 port = 48888 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 112.85.104.33 port = 9131 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 123.138.89.133 port = 9999 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 112.85.72.187 port = 9131 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 36.40.83.39 port = 80 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 124.152.32.140 port = 53281 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 39.80.103.69 port = 53281 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 112.123.250.144 port = 9745 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 112.123.43.180 port = 9745 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 58.17.125.215 port = 53281 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 112.85.88.239 port = 9131 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 112.123.42.150 port = 9745 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 171.108.205.85 port = 53281 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 112.85.8.107 port = 9131 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 122.159.27.86 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 112.85.74.31 port = 9131 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 112.85.109.216 port = 9131 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 180.173.109.149 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 112.85.57.137 port = 9131 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 112.85.58.239 port = 9131 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 112.123.43.239 port = 9745 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 175.154.87.16 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 112.114.77.144 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 27.46.74.42 port = 9999 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 113.107.166.246 port = 808 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 112.85.8.163 port = 9131 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 61.183.152.82 port = 53281 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 183.18.164.94 port = 3128 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 112.85.110.187 port = 9131 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 112.85.88.107 port = 9131 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 121.63.193.48 port = 53281 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 180.173.54.155 port = 9000 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 163.142.69.127 port = 80 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 121.8.185.244 port = 53281 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 114.237.150.11 port = 9999 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 60.215.89.192 port = 80 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 112.85.86.183 port = 9131 timestamp = 2017-08-29 13:50:51.407000>
+Testing Proxy <Proxy host = 112.85.9.5 port = 9131 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 42.243.112.143 port = 8118 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 110.216.18.59 port = 80 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 110.182.237.236 port = 53281 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 116.208.62.42 port = 53281 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 183.18.164.86 port = 3128 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 119.90.63.3 port = 3128 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 120.33.247.96 port = 808 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 110.153.184.246 port = 53281 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 220.166.64.174 port = 3128 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 210.26.54.43 port = 808 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 222.34.139.52 port = 808 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 183.18.164.89 port = 3128 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 110.182.51.158 port = 8118 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 221.8.172.82 port = 80 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.123.249.18 port = 9745 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 183.66.64.120 port = 3128 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 218.62.90.30 port = 53281 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 42.84.246.62 port = 80 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 221.200.78.138 port = 80 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 58.241.231.99 port = 8118 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 180.117.13.105 port = 8118 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 121.237.6.20 port = 8118 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 101.81.183.236 port = 53281 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 218.15.25.153 port = 808 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 110.73.41.14 port = 8123 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.114.94.174 port = 8118 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 218.29.111.106 port = 9999 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 121.31.100.39 port = 8123 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 114.221.0.64 port = 8118 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 115.200.29.9 port = 80 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.114.78.208 port = 8118 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 182.47.27.187 port = 8118 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.57.27 port = 9131 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 183.133.80.155 port = 8118 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 123.9.240.245 port = 8118 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 59.35.235.150 port = 8118 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 182.88.199.116 port = 8118 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 42.58.87.50 port = 80 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.123.42.103 port = 9745 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 36.249.172.105 port = 8118 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 113.128.90.207 port = 48888 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 113.128.90.229 port = 48888 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.233.59.200 port = 8118 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 125.37.176.143 port = 8118 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 114.115.210.154 port = 3128 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.123.248.29 port = 9745 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.0.199 port = 9131 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 113.128.90.52 port = 48888 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.104.33 port = 9131 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 123.138.89.133 port = 9999 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.72.187 port = 9131 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 36.40.83.39 port = 80 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 124.152.32.140 port = 53281 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 39.80.103.69 port = 53281 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.123.250.144 port = 9745 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.123.43.180 port = 9745 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 58.17.125.215 port = 53281 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.88.239 port = 9131 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.123.42.150 port = 9745 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 171.108.205.85 port = 53281 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.8.107 port = 9131 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 122.159.27.86 port = 8118 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.74.31 port = 9131 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.109.216 port = 9131 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 180.173.109.149 port = 8118 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.57.137 port = 9131 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.58.239 port = 9131 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.123.43.239 port = 9745 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 175.154.87.16 port = 8118 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.114.77.144 port = 8118 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 27.46.74.42 port = 9999 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 113.107.166.246 port = 808 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.8.163 port = 9131 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 61.183.152.82 port = 53281 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 183.18.164.94 port = 3128 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.110.187 port = 9131 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.88.107 port = 9131 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 121.63.193.48 port = 53281 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 180.173.54.155 port = 9000 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 163.142.69.127 port = 80 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 121.8.185.244 port = 53281 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 114.237.150.11 port = 9999 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 60.215.89.192 port = 80 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+[BAD] [BAD]<Proxy host = 120.33.247.96 port = 808 timestamp = 2017-08-29 13:50:51.407000> 
+<Proxy host = 58.241.231.99 port = 8118 timestamp = 2017-08-29 13:50:51.407000>[BAD]
+  Testing Proxy<Proxy host = 218.15.25.153 port = 808 timestamp = 2017-08-29 13:50:51.407000> 
+<Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.86.183 port = 9131 timestamp = 2017-08-29 13:50:51.407000> ssl = True url = https://www.baidu.com
+[BAD] <Proxy host = 36.249.172.105 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 222.34.139.52 port = 808 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 113.107.166.246 port = 808 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 183.133.80.155 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 210.26.54.43 port = 808 timestamp = 2017-08-29 13:50:51.407000>
+[GOOD] <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:51.407000>
+UNPUSH[REPEAT] :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:50:51.407000> [ 17 LEFT ]
+[GOOD] <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:51.407000>
+UNPUSH[REPEAT] :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:50:51.407000> [ 17 LEFT ]
+[GOOD] <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:51.407000>
+UNPUSH[REPEAT] :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:50:51.407000> [ 17 LEFT ]
+[BAD] <Proxy host = 180.117.13.105 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+[GOOD] <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:51.407000>
+UNPUSH[REPEAT] :  <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:50:51.407000> [ 17 LEFT ]
+[BAD] <Proxy host = 42.58.87.50 port = 80 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 113.128.90.207 port = 48888 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 112.123.249.18 port = 9745 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] [BAD]<Proxy host = 182.47.27.187 port = 8118 timestamp = 2017-08-29 13:50:51.407000> 
+<Proxy host = 123.9.240.245 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+[GOOD] <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:51.407000>
+UNPUSH[REPEAT] :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:50:51.407000> [ 17 LEFT ]
+[BAD] <Proxy host = 112.233.59.200 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 113.128.90.229 port = 48888 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 42.243.112.143 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 182.88.199.116 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 114.221.0.64 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 112.85.74.31 port = 9131 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 112.123.42.150 port = 9745 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 175.154.87.16 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 60.215.89.192 port = 80 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 171.108.205.85 port = 53281 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 183.18.164.94 port = 3128 timestamp = 2017-08-29 13:50:51.407000>
+[GOOD] <Proxy host = 112.114.77.144 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+PUSH :  <Proxy host = 112.114.77.144 port = 8118 timestamp = 2017-08-29 13:50:52.893000> [ 18 LEFT ]
+[GOOD] <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:51.407000>
+UNPUSH[REPEAT] :  <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:50:51.407000> [ 18 LEFT ]
+[GOOD] <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:51.407000>
+UNPUSH[REPEAT] :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:50:51.407000> [ 18 LEFT ]
+[GOOD] <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:51.407000>
+UNPUSH[REPEAT] :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:50:51.407000> [ 18 LEFT ]
+[GOOD] <Proxy host = 119.90.63.3 port = 3128 timestamp = 2017-08-29 13:50:51.407000>
+PUSH :  <Proxy host = 119.90.63.3 port = 3128 timestamp = 2017-08-29 13:50:54.104000> [ 19 LEFT ]
+[BAD] <Proxy host = 59.35.235.150 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 221.200.78.138 port = 80 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 110.182.237.236 port = 53281 timestamp = 2017-08-29 13:50:51.407000>
+[GOOD] <Proxy host = 183.66.64.120 port = 3128 timestamp = 2017-08-29 13:50:51.407000>
+UNPUSH[REPEAT] :  <Proxy host = 183.66.64.120 port = 3128 timestamp = 2017-08-29 13:50:51.407000> [ 19 LEFT ]
+[BAD] <Proxy host = 180.173.109.149 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 114.115.210.154 port = 3128 timestamp = 2017-08-29 13:50:51.407000>
+[GOOD] <Proxy host = 218.62.90.30 port = 53281 timestamp = 2017-08-29 13:50:51.407000>
+PUSH :  <Proxy host = 218.62.90.30 port = 53281 timestamp = 2017-08-29 13:50:56.646000> [ 20 LEFT ]
+[BAD] <Proxy host = 112.114.78.208 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+[GOOD] <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:50:51.407000>
+UNPUSH[REPEAT] :  <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:50:51.407000> [ 20 LEFT ]
+[GOOD] <Proxy host = 220.166.64.174 port = 3128 timestamp = 2017-08-29 13:50:51.407000>
+PUSH :  <Proxy host = 220.166.64.174 port = 3128 timestamp = 2017-08-29 13:50:57.727000> [ 21 LEFT ]
+[BAD] <Proxy host = 115.200.29.9 port = 80 timestamp = 2017-08-29 13:50:51.407000>
+[GOOD] <Proxy host = 112.85.9.5 port = 9131 timestamp = 2017-08-29 13:50:51.407000>
+PUSH :  <Proxy host = 112.85.9.5 port = 9131 timestamp = 2017-08-29 13:51:00.012000> [ 22 LEFT ]
+[BAD] <Proxy host = 121.237.6.20 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 110.182.51.158 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+[GOOD] <Proxy host = 112.85.88.107 port = 9131 timestamp = 2017-08-29 13:50:51.407000>
+PUSH :  <Proxy host = 112.85.88.107 port = 9131 timestamp = 2017-08-29 13:51:03.901000> [ 23 LEFT ]
+[BAD] <Proxy host = 112.114.94.174 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 61.183.152.82 port = 53281 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 221.8.172.82 port = 80 timestamp = 2017-08-29 13:50:51.407000>
+[GOOD] <Proxy host = 183.18.164.89 port = 3128 timestamp = 2017-08-29 13:50:51.407000>
+PUSH :  <Proxy host = 183.18.164.89 port = 3128 timestamp = 2017-08-29 13:51:09.364000> [ 24 LEFT ]
+[BAD] <Proxy host = 110.216.18.59 port = 80 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 110.153.184.246 port = 53281 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 42.84.246.62 port = 80 timestamp = 2017-08-29 13:50:51.407000>
+[BAD][BAD]  <Proxy host = 101.81.183.236 port = 53281 timestamp = 2017-08-29 13:50:51.407000>[BAD]<Proxy host = 218.29.111.106 port = 9999 timestamp = 2017-08-29 13:50:51.407000>
+ 
+<Proxy host = 121.31.100.39 port = 8123 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 112.85.57.27 port = 9131 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 112.123.42.103 port = 9745 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 112.85.0.199 port = 9131 timestamp = 2017-08-29 13:50:51.407000>[BAD]
+  [BAD][BAD]<Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:50:51.407000>  [BAD]
+<Proxy host = 125.37.176.143 port = 8118 timestamp = 2017-08-29 13:50:51.407000><Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:50:51.407000> [BAD]
+
+<Proxy host = 112.123.248.29 port = 9745 timestamp = 2017-08-29 13:50:51.407000> 
+<Proxy host = 113.128.90.52 port = 48888 timestamp = 2017-08-29 13:50:51.407000>
+[BAD][BAD] [BAD] <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:50:51.407000> [BAD]<Proxy host = 36.40.83.39 port = 80 timestamp = 2017-08-29 13:50:51.407000>
+<Proxy host = 112.85.104.33 port = 9131 timestamp = 2017-08-29 13:50:51.407000> 
+ 
+<Proxy host = 123.138.89.133 port = 9999 timestamp = 2017-08-29 13:50:51.407000>[BAD]
+ <Proxy host = 112.85.72.187 port = 9131 timestamp = 2017-08-29 13:50:51.407000>
+[BAD][BAD] [BAD] [BAD]<Proxy host = 124.152.32.140 port = 53281 timestamp = 2017-08-29 13:50:51.407000> [BAD]<Proxy host = 112.123.43.180 port = 9745 timestamp = 2017-08-29 13:50:51.407000> 
+<Proxy host = 39.80.103.69 port = 53281 timestamp = 2017-08-29 13:50:51.407000> 
+ <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:50:51.407000>[BAD]
+<Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:50:51.407000>[BAD]
+ 
+ <Proxy host = 58.17.125.215 port = 53281 timestamp = 2017-08-29 13:50:51.407000><Proxy host = 112.123.250.144 port = 9745 timestamp = 2017-08-29 13:50:51.407000>
+
+[BAD] <Proxy host = 112.85.88.239 port = 9131 timestamp = 2017-08-29 13:50:51.407000>[BAD]
+ <Proxy host = 112.85.8.107 port = 9131 timestamp = 2017-08-29 13:50:51.407000>[BAD] 
+<Proxy host = 122.159.27.86 port = 8118 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 112.85.109.216 port = 9131 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] [BAD] [BAD]<Proxy host = 112.85.58.239 port = 9131 timestamp = 2017-08-29 13:50:51.407000><Proxy host = 112.123.43.239 port = 9745 timestamp = 2017-08-29 13:50:51.407000> 
+
+<Proxy host = 112.85.57.137 port = 9131 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 27.46.74.42 port = 9999 timestamp = 2017-08-29 13:50:51.407000>[BAD]
+ <Proxy host = 112.85.8.163 port = 9131 timestamp = 2017-08-29 13:50:51.407000>
+[BAD] <Proxy host = 114.237.150.11 port = 9999 timestamp = 2017-08-29 13:50:51.407000>[BAD]
+ [BAD]<Proxy host = 112.85.110.187 port = 9131 timestamp = 2017-08-29 13:50:51.407000> 
+<Proxy host = 112.85.86.183 port = 9131 timestamp = 2017-08-29 13:50:51.407000>[BAD]
+  [BAD]<Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:50:51.407000> 
+ [BAD]<Proxy host = 163.142.69.127 port = 80 timestamp = 2017-08-29 13:50:51.407000>[BAD][BAD] 
+  <Proxy host = 180.173.54.155 port = 9000 timestamp = 2017-08-29 13:50:51.407000><Proxy host = 121.63.193.48 port = 53281 timestamp = 2017-08-29 13:50:51.407000><Proxy host = 121.8.185.244 port = 53281 timestamp = 2017-08-29 13:50:51.407000>
+
+
+[BAD] <Proxy host = 110.73.41.14 port = 8123 timestamp = 2017-08-29 13:50:51.407000>
+[GOOD] <Proxy host = 116.208.62.42 port = 53281 timestamp = 2017-08-29 13:50:51.407000>
+PUSH :  <Proxy host = 116.208.62.42 port = 53281 timestamp = 2017-08-29 13:51:17.819000> [ 25 LEFT ]
+Get Proxy List ( 100 items) :
+<Proxy host = 112.85.9.5 port = 9131 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 42.243.112.143 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 110.216.18.59 port = 80 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 110.182.237.236 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 116.208.62.42 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 183.18.164.86 port = 3128 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 119.90.63.3 port = 3128 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 120.33.247.96 port = 808 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 110.153.184.246 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 220.166.64.174 port = 3128 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 210.26.54.43 port = 808 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 222.34.139.52 port = 808 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 183.18.164.89 port = 3128 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 110.182.51.158 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 221.8.172.82 port = 80 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 112.123.249.18 port = 9745 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 183.66.64.120 port = 3128 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 218.62.90.30 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 42.84.246.62 port = 80 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 221.200.78.138 port = 80 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 58.241.231.99 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 180.117.13.105 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 121.237.6.20 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 101.81.183.236 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 218.15.25.153 port = 808 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 110.73.41.14 port = 8123 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 112.114.94.174 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 218.29.111.106 port = 9999 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 121.31.100.39 port = 8123 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 114.221.0.64 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 115.200.29.9 port = 80 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 112.114.78.208 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 182.47.27.187 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 112.85.57.27 port = 9131 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 183.133.80.155 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 123.9.240.245 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 59.35.235.150 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 182.88.199.116 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 42.58.87.50 port = 80 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 112.123.42.103 port = 9745 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 36.249.172.105 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 113.128.90.207 port = 48888 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 113.128.90.229 port = 48888 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 112.233.59.200 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 125.37.176.143 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 114.115.210.154 port = 3128 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 112.123.248.29 port = 9745 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 112.85.0.199 port = 9131 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 113.128.90.52 port = 48888 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 112.85.104.33 port = 9131 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 123.138.89.133 port = 9999 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 112.85.72.187 port = 9131 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 36.40.83.39 port = 80 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 124.152.32.140 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 39.80.103.69 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 112.123.250.144 port = 9745 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 112.123.43.180 port = 9745 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 58.17.125.215 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 112.85.88.239 port = 9131 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 112.123.42.150 port = 9745 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 171.108.205.85 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 112.85.8.107 port = 9131 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 122.159.27.86 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 112.85.74.31 port = 9131 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 112.85.109.216 port = 9131 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 180.173.109.149 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 112.85.57.137 port = 9131 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 112.85.58.239 port = 9131 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 112.123.43.239 port = 9745 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 175.154.87.16 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 112.114.77.144 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 27.46.74.42 port = 9999 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 113.107.166.246 port = 808 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 112.85.8.163 port = 9131 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 61.183.152.82 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 183.18.164.94 port = 3128 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 112.85.110.187 port = 9131 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 112.85.88.107 port = 9131 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 121.63.193.48 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 180.173.54.155 port = 9000 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 163.142.69.127 port = 80 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 121.8.185.244 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 114.237.150.11 port = 9999 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 60.215.89.192 port = 80 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 112.85.86.183 port = 9131 timestamp = 2017-08-29 13:51:51.759000>
+Testing Proxy <Proxy host = 112.85.9.5 port = 9131 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 42.243.112.143 port = 8118 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 110.216.18.59 port = 80 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 110.182.237.236 port = 53281 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 116.208.62.42 port = 53281 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 183.18.164.86 port = 3128 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 119.90.63.3 port = 3128 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 120.33.247.96 port = 808 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 110.153.184.246 port = 53281 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 220.166.64.174 port = 3128 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 210.26.54.43 port = 808 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 222.34.139.52 port = 808 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 183.18.164.89 port = 3128 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 110.182.51.158 port = 8118 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 221.8.172.82 port = 80 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.123.249.18 port = 9745 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 183.66.64.120 port = 3128 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 218.62.90.30 port = 53281 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 42.84.246.62 port = 80 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 221.200.78.138 port = 80 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 58.241.231.99 port = 8118 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 180.117.13.105 port = 8118 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 121.237.6.20 port = 8118 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 101.81.183.236 port = 53281 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 218.15.25.153 port = 808 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 110.73.41.14 port = 8123 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.114.94.174 port = 8118 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 218.29.111.106 port = 9999 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 121.31.100.39 port = 8123 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 114.221.0.64 port = 8118 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 115.200.29.9 port = 80 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.114.78.208 port = 8118 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 182.47.27.187 port = 8118 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.57.27 port = 9131 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 183.133.80.155 port = 8118 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 123.9.240.245 port = 8118 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 59.35.235.150 port = 8118 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 182.88.199.116 port = 8118 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 42.58.87.50 port = 80 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.123.42.103 port = 9745 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 36.249.172.105 port = 8118 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 113.128.90.207 port = 48888 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 113.128.90.229 port = 48888 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.233.59.200 port = 8118 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 125.37.176.143 port = 8118 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 114.115.210.154 port = 3128 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.123.248.29 port = 9745 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.0.199 port = 9131 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 113.128.90.52 port = 48888 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.104.33 port = 9131 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 123.138.89.133 port = 9999 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.72.187 port = 9131 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 36.40.83.39 port = 80 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 124.152.32.140 port = 53281 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 39.80.103.69 port = 53281 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.123.250.144 port = 9745 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.123.43.180 port = 9745 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 58.17.125.215 port = 53281 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.88.239 port = 9131 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.123.42.150 port = 9745 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 171.108.205.85 port = 53281 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.8.107 port = 9131 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 122.159.27.86 port = 8118 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.74.31 port = 9131 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.109.216 port = 9131 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 180.173.109.149 port = 8118 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.57.137 port = 9131 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.58.239 port = 9131 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.123.43.239 port = 9745 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 175.154.87.16 port = 8118 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.114.77.144 port = 8118 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 27.46.74.42 port = 9999 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 113.107.166.246 port = 808 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.8.163 port = 9131 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 61.183.152.82 port = 53281 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 183.18.164.94 port = 3128 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.110.187 port = 9131 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.88.107 port = 9131 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 121.63.193.48 port = 53281 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 180.173.54.155 port = 9000 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 163.142.69.127 port = 80 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 121.8.185.244 port = 53281 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 114.237.150.11 port = 9999 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 60.215.89.192 port = 80 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+Testing Proxy <Proxy host = 112.85.86.183 port = 9131 timestamp = 2017-08-29 13:51:51.759000> ssl = True url = https://www.baidu.com
+[BAD] <Proxy host = 58.241.231.99 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 183.133.80.155 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 218.15.25.153 port = 808 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 222.34.139.52 port = 808 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 113.107.166.246 port = 808 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 139.159.240.63 port = 80 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 210.26.54.43 port = 808 timestamp = 2017-08-29 13:51:51.759000>
+[GOOD] <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:51:51.759000>
+UNPUSH[REPEAT] :  <Proxy host = 123.57.221.41 port = 3128 timestamp = 2017-08-29 13:51:51.759000> [ 25 LEFT ]
+[GOOD] <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:51:51.759000>
+UNPUSH[REPEAT] :  <Proxy host = 219.149.46.151 port = 3129 timestamp = 2017-08-29 13:51:51.759000> [ 25 LEFT ]
+[GOOD] <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:51:51.759000>
+UNPUSH[REPEAT] :  <Proxy host = 222.196.33.254 port = 3128 timestamp = 2017-08-29 13:51:51.759000> [ 25 LEFT ]
+[GOOD] <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+UNPUSH[REPEAT] :  <Proxy host = 27.22.117.185 port = 53281 timestamp = 2017-08-29 13:51:51.759000> [ 25 LEFT ]
+[BAD] <Proxy host = 113.128.90.207 port = 48888 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 180.117.13.105 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 182.47.27.187 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+[GOOD] <Proxy host = 120.33.247.96 port = 808 timestamp = 2017-08-29 13:51:51.759000>
+PUSH :  <Proxy host = 120.33.247.96 port = 808 timestamp = 2017-08-29 13:51:53.073000> [ 26 LEFT ]
+[BAD] <Proxy host = 113.128.90.229 port = 48888 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 112.233.59.200 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 182.88.199.116 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 61.183.152.82 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 60.215.89.192 port = 80 timestamp = 2017-08-29 13:51:51.759000>
+[BAD][BAD]  <Proxy host = 175.154.87.16 port = 8118 timestamp = 2017-08-29 13:51:51.759000><Proxy host = 183.18.164.94 port = 3128 timestamp = 2017-08-29 13:51:51.759000>
+
+[BAD] <Proxy host = 112.85.74.31 port = 9131 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 112.123.42.150 port = 9745 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 171.108.205.85 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 114.221.0.64 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 59.35.235.150 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 115.200.29.9 port = 80 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 221.200.78.138 port = 80 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 110.182.51.158 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 42.84.246.62 port = 80 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 36.249.172.105 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+[GOOD] <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:51:51.759000>
+UNPUSH[REPEAT] :  <Proxy host = 42.159.242.36 port = 808 timestamp = 2017-08-29 13:51:51.759000> [ 26 LEFT ]
+[BAD] <Proxy host = 42.58.87.50 port = 80 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 42.243.112.143 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 112.114.94.174 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 123.9.240.245 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 180.173.109.149 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 112.85.9.5 port = 9131 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 112.114.77.144 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+[GOOD] <Proxy host = 183.66.64.120 port = 3128 timestamp = 2017-08-29 13:51:51.759000>
+UNPUSH[REPEAT] :  <Proxy host = 183.66.64.120 port = 3128 timestamp = 2017-08-29 13:51:51.759000> [ 26 LEFT ]
+[BAD] <Proxy host = 221.8.172.82 port = 80 timestamp = 2017-08-29 13:51:51.759000>
+[GOOD] <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:51:51.759000>
+UNPUSH[REPEAT] :  <Proxy host = 116.211.88.90 port = 3128 timestamp = 2017-08-29 13:51:51.759000> [ 26 LEFT ]
+[GOOD] <Proxy host = 183.18.164.86 port = 3128 timestamp = 2017-08-29 13:50:51.407000>
+UNPUSH[REPEAT] :  <Proxy host = 183.18.164.86 port = 3128 timestamp = 2017-08-29 13:50:51.407000> [ 26 LEFT ]
+[GOOD] <Proxy host = 110.182.237.236 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+PUSH :  <Proxy host = 110.182.237.236 port = 53281 timestamp = 2017-08-29 13:52:03.328000> [ 27 LEFT ]
+[GOOD] <Proxy host = 121.8.185.244 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+PUSH :  <Proxy host = 121.8.185.244 port = 53281 timestamp = 2017-08-29 13:52:03.484000> [ 28 LEFT ]
+[GOOD] <Proxy host = 58.17.125.215 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+PUSH :  <Proxy host = 58.17.125.215 port = 53281 timestamp = 2017-08-29 13:52:03.797000> [ 29 LEFT ]
+[GOOD] <Proxy host = 112.123.249.18 port = 9745 timestamp = 2017-08-29 13:51:51.759000>
+PUSH :  <Proxy host = 112.123.249.18 port = 9745 timestamp = 2017-08-29 13:52:03.933000> [ 30 LEFT ]
+[GOOD] <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:51:51.759000>
+UNPUSH[REPEAT] :  <Proxy host = 61.160.208.222 port = 8080 timestamp = 2017-08-29 13:51:51.759000> [ 30 LEFT ]
+[GOOD] <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:51:51.759000>
+UNPUSH[REPEAT] :  <Proxy host = 123.163.163.72 port = 808 timestamp = 2017-08-29 13:51:51.759000> [ 30 LEFT ]
+[BAD] <Proxy host = 121.237.6.20 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+[GOOD] <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:51:51.759000>
+UNPUSH[REPEAT] :  <Proxy host = 219.150.242.54 port = 9999 timestamp = 2017-08-29 13:51:51.759000> [ 30 LEFT ]
+[GOOD] <Proxy host = 123.138.89.133 port = 9999 timestamp = 2017-08-29 13:51:51.759000>
+PUSH :  <Proxy host = 123.138.89.133 port = 9999 timestamp = 2017-08-29 13:52:07.684000> [ 31 LEFT ]
+[GOOD] <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+UNPUSH[REPEAT] :  <Proxy host = 115.198.48.67 port = 53281 timestamp = 2017-08-29 13:51:51.759000> [ 31 LEFT ]
+[GOOD] <Proxy host = 183.18.164.86 port = 3128 timestamp = 2017-08-29 13:51:51.759000>
+UNPUSH[REPEAT] :  <Proxy host = 183.18.164.86 port = 3128 timestamp = 2017-08-29 13:51:51.759000> [ 31 LEFT ]
+[BAD] <Proxy host = 119.90.63.3 port = 3128 timestamp = 2017-08-29 13:51:51.759000>[BAD]
+ <Proxy host = 110.216.18.59 port = 80 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 220.166.64.174 port = 3128 timestamp = 2017-08-29 13:51:51.759000>
+ [BAD] <Proxy host = 110.153.184.246 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 218.62.90.30 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 39.77.156.154 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 110.73.41.14 port = 8123 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 218.29.111.106 port = 9999 timestamp = 2017-08-29 13:51:51.759000>
+ [BAD] <Proxy host = 101.81.183.236 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 121.31.100.39 port = 8123 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 112.85.57.27 port = 9131 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 112.114.78.208 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 112.123.42.103 port = 9745 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 112.93.202.70 port = 9000 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 125.37.176.143 port = 8118 timestamp = 2017-08-29 13:51:51.759000>
+[BAD][BAD] [BAD] <Proxy host = 113.128.90.52 port = 48888 timestamp = 2017-08-29 13:51:51.759000> 
+<Proxy host = 112.123.248.29 port = 9745 timestamp = 2017-08-29 13:51:51.759000><Proxy host = 124.152.84.65 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+
+[BAD] <Proxy host = 112.85.104.33 port = 9131 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] [BAD]<Proxy host = 112.85.0.199 port = 9131 timestamp = 2017-08-29 13:51:51.759000>[BAD] [BAD]
+ <Proxy host = 39.80.103.69 port = 53281 timestamp = 2017-08-29 13:51:51.759000> <Proxy host = 124.152.32.140 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 36.40.83.39 port = 80 timestamp = 2017-08-29 13:51:51.759000>
+
+[BAD] <Proxy host = 112.85.72.187 port = 9131 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 112.123.43.180 port = 9745 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 112.123.250.144 port = 9745 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] [BAD]<Proxy host = 112.85.88.239 port = 9131 timestamp = 2017-08-29 13:51:51.759000>[BAD] 
+ <Proxy host = 27.46.74.42 port = 9999 timestamp = 2017-08-29 13:51:51.759000>
+<Proxy host = 112.85.58.239 port = 9131 timestamp = 2017-08-29 13:51:51.759000>
+[BAD][BAD]  <Proxy host = 122.159.27.86 port = 8118 timestamp = 2017-08-29 13:51:51.759000><Proxy host = 112.85.8.107 port = 9131 timestamp = 2017-08-29 13:51:51.759000>
+ 
+[BAD] <Proxy host = 112.85.109.216 port = 9131 timestamp = 2017-08-29 13:51:51.759000>
+[BAD][BAD] [BAD] [BAD]<Proxy host = 112.85.57.137 port = 9131 timestamp = 2017-08-29 13:51:51.759000> <Proxy host = 112.123.43.239 port = 9745 timestamp = 2017-08-29 13:51:51.759000> 
+<Proxy host = 112.85.86.183 port = 9131 timestamp = 2017-08-29 13:51:51.759000> 
+<Proxy host = 112.85.8.163 port = 9131 timestamp = 2017-08-29 13:51:51.759000>
+[BAD]
+ <Proxy host = 112.85.110.187 port = 9131 timestamp = 2017-08-29 13:51:51.759000>
+[BAD] <Proxy host = 180.173.54.155 port = 9000 timestamp = 2017-08-29 13:51:51.759000>
+[BAD][BAD]  <Proxy host = 114.237.150.11 port = 9999 timestamp = 2017-08-29 13:51:51.759000><Proxy host = 112.85.88.107 port = 9131 timestamp = 2017-08-29 13:51:51.759000>
+
+[BAD] <Proxy host = 163.142.69.127 port = 80 timestamp = 2017-08-29 13:51:51.759000>
+ [BAD] <Proxy host = 121.63.193.48 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+[GOOD] <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:51:51.759000>
+UNPUSH[REPEAT] :  <Proxy host = 219.156.151.20 port = 53281 timestamp = 2017-08-29 13:51:51.759000> [ 31 LEFT ]

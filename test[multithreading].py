@@ -1,9 +1,19 @@
+'''
+
+CroxxProxyPool is a thread-safe ProxyPool.
+
+This module is used for test multithreading.
+
+(The log of function 'TsetProxy' is not thread-safe, for print in python2.7 is not thread-safe.)
+
+'''
+
 
 from CroxxProxyPool import ProxyPool
 import threading,time,random
 
 pp = ProxyPool()
-pp.start(delay = 60,ssl = True,debug = True)
+pp.start(delay = 10 * 60,ssl = True,debug = True)
 
 
 def testThread(tid,pp):
