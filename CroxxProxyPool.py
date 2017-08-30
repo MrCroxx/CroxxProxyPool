@@ -6,8 +6,9 @@ from datetime import datetime
 import heapq
 import threading
 import random
+from winsound import Beep
 
-def getProxyList(source,ssl,debug):
+def getProxyList(source,ssl,debug,proxy = None):
 
 	proxylist = []
 
@@ -15,33 +16,91 @@ def getProxyList(source,ssl,debug):
 		'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
 	}
 
-	if source=='xicidaili':
+	proxies = {}
 
-		if ssl:
-			res = requests.get("http://www.xicidaili.com/wn/"+str(random.randint(1,11)),headers=headers)
-		else:
-			res = requests.get("http://www.xicidaili.com/wt",headers=headers)
-		html = etree.HTML(res.text)
-
-		ip_list_tables = html.xpath("//table[@id='ip_list']")
-
-		if len(ip_list_tables)==0:
-			print 'Crawler : Get No IP List !'
-			return []
-
-		ip_list_table = html.xpath("//table[@id='ip_list']")[0]
-
-		for tr in ip_list_table.xpath("//tr")[1:]:
-			tds = tr.xpath('td')[1:3]
-			proxylist.append(Proxy(tds[0].text,tds[1].text))
-			
-
+	if proxy is not None:
+		proxies = {
+			'http':proxy.toURL(),
+			'https':proxy.toURL(),
+		}
 		if debug:
-			print 'Get Proxy List ( %s items) :' % ( len(proxylist) ,)
-			for item in proxylist:
-				print item
+			print '[ Fetching proxies with proxy ! ]'
 
-	return proxylist
+	try:
+
+		if source=='xicidaili':
+
+			if proxy is not None:
+				pagerange = 51
+			else:
+				pagerange = 11
+
+			if ssl:
+				url = "http://www.xicidaili.com/wn/"+str(random.randint(1,pagerange))
+			else:
+				url = "http://www.xicidaili.com/wt/"+str(random.randint(1,pagerange))
+
+			res = requests.get(url,headers=headers,proxies = proxies)
+
+			html = etree.HTML(res.text)
+
+			ip_list_tables = html.xpath("//table[@id='ip_list']")
+
+			if len(ip_list_tables)==0:
+				if proxy is not None:
+					print 'Crawler : Get No IP List !'
+				else:
+					if debug:
+						print '[ Proxy failed to fetch another proxy table ! %s ]' % (proxy,)
+				return []
+
+			ip_list_table = html.xpath("//table[@id='ip_list']")[0]
+
+			for tr in ip_list_table.xpath("//tr")[1:]:
+				tds = tr.xpath('td')[1:3]
+				proxylist.append(Proxy(tds[0].text,tds[1].text,source))
+				
+			if debug:
+				print 'Get Proxy List ( %s items) :' % ( len(proxylist) ,)
+				for item in proxylist:
+					print item
+			if proxy is not None:
+				if debug:
+						print '[ Proxy secceed to fetch another proxy table ! %s ]' % (proxy,)
+
+		elif source=='kuaidaili':
+
+			if ssl:
+				res = requests.get("http://www.kuaidaili.com/free/inha/"+str(random.randint(1,51)),headers=headers)
+			else:
+				res = requests.get("http://www.kuaidaili.com/free/intr/"+str(random.randint(1,51)),headers=headers)
+
+			html = etree.HTML(res.text)
+
+			ip_list_tables = html.xpath("//tbody")
+
+			if len(ip_list_tables)==0:
+				print 'Crawler : Get No IP List !'
+				return []
+
+			ip_list_table = ip_list_tables[0]
+
+			for tr in ip_list_table.xpath("//tr")[1:]:
+				tds = tr.xpath('td')[0:2]
+				proxylist.append(Proxy(tds[0].text,tds[1].text,source))
+				
+
+			if debug:
+				print 'Get Proxy List ( %s items) :' % ( len(proxylist) ,)
+				for item in proxylist:
+					print item
+	except:
+		if debug:
+			print 'Failed to fetch proxy table caused by network probloms.'
+	finally:
+		return proxylist
+
+
 
 def TestProxy(proxy,ssl = False,url = None,debug = False,pp = None):
 	if url is None:
@@ -69,12 +128,16 @@ def TestProxy(proxy,ssl = False,url = None,debug = False,pp = None):
 			print '[GOOD]',proxy
 		if pp is not None:
 			pp.push(proxy,debug=debug)
+			proxylist = getProxyList(proxy.source,ssl,debug,proxy=proxy)
+			for p in proxylist:
+				threading.Thread(target = TestProxy,kwargs = {'proxy':p,'ssl':ssl,'debug':debug,'pp':pp}).start()
 		return True
 
 class Proxy(object):
-	def __init__(self,host,port):
+	def __init__(self,host,port,source):
 		self.host = host
 		self.port = port
+		self.source = source
 		self.refresh()
 	def getPriority(self):
 		return self.timestamp
@@ -85,7 +148,7 @@ class Proxy(object):
 	def __lt__(self,x):
 		return self.timestamp < x.timestamp
 	def __str__(self):
-		return '<Proxy host = %s port = %s timestamp = %s>' % (self.host,self.port,self.timestamp)
+		return '<Proxy host = %s port = %s source = %s timestamp = %s>' % (self.host,self.port,self.source,self.timestamp)
 	def __repr__(self):
 		return str(self)
 
@@ -133,6 +196,7 @@ class ProxyPool(object):
 	def __repr__(self):
 		return str(self)
 	def start(self,delay = 10 * 60,source = 'xicidaili',ssl = False,debug = False):
+		print 'ProxyPool start !'
 		if self.__start:
 			'ProxyPool has already started. Do not start it again!'
 		else:
