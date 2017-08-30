@@ -12,6 +12,7 @@ CroxxProxyPool is a light, thread-safe ProxyPool for Python that automatically c
 2. Use a heap to make sure each time you will pop the earliest proxy you used.
 3. Confirm the availability of a proxy when it is crawled.
 4. Detect repeat proxies when pushing.
+5. [ Update on 2017-8-30 ] Crawl other proxies with a searched proxy to fasten searching available proxies ! ( Searching can be 2-5 times faster than before ! )
 
 
 
