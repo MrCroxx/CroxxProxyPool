@@ -47,7 +47,7 @@ def getProxyList(source,ssl,debug,proxy = None):
 			ip_list_tables = html.xpath("//table[@id='ip_list']")
 
 			if len(ip_list_tables)==0:
-				if proxy is not None:
+				if proxy is None:
 					print 'Crawler : Get No IP List !'
 				else:
 					if debug:
