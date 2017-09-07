@@ -38,11 +38,11 @@ pp.start(delay = 10 * 60,ssl = True)
 # start crawling proxies
 ```
 
-4.Get a proxy by pop()
+4.Get a "http" or "https" proxy by pop()
 
 ```python
-proxy = pp.pop()
-# get a proxy
+proxy = pp.pop("HTTP") # or proxy = pp.pop("HTTPS")
+# get a proxy ("HTTP" default)
 ```
 
 5.Push the proxy back after using it
@@ -79,4 +79,3 @@ def testThread(tid,pp):
 for i in range(0,300):
 	threading.Thread(target = testThread,args = (i,pp)).start()
 ```
-
