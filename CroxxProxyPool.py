@@ -1,256 +1,240 @@
-#-*- coding:utf-8 -*-
-import requests
-import re
+# -*- coding:utf-8 -*-
+import requests, re, heapq, threading, random, time
 from lxml import etree
-from datetime import datetime
-import heapq
-import threading
-import random
+from datetime import datetime, timedelta
 from winsound import Beep
 
-def getProxyList(source,ssl,debug,proxy = None):
-
-	proxylist = []
-
-	headers = {
-		'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
-	}
-
-	proxies = {}
-
-	if proxy is not None:
-		proxies = {
-			'http':proxy.toURL(),
-			'https':proxy.toURL(),
-		}
-		if debug:
-			print '[ Fetching proxies with proxy ! ]'
-
-	try:
-
-		if source=='xicidaili':
-
-			if proxy is not None:
-				pagerange = 51
-			else:
-				pagerange = 11
-
-			if ssl:
-				url = "http://www.xicidaili.com/wn/"+str(random.randint(1,pagerange))
-			else:
-				url = "http://www.xicidaili.com/wt/"+str(random.randint(1,pagerange))
-
-			res = requests.get(url,headers=headers,proxies = proxies)
-
-			html = etree.HTML(res.text)
-
-			ip_list_tables = html.xpath("//table[@id='ip_list']")
-
-			if len(ip_list_tables)==0:
-				if proxy is None:
-					print 'Crawler : Get No IP List !'
-				else:
-					if debug:
-						print '[ Proxy failed to fetch another proxy table ! %s ]' % (proxy,)
-				return []
-
-			ip_list_table = html.xpath("//table[@id='ip_list']")[0]
-
-			for tr in ip_list_table.xpath("//tr")[1:]:
-				tds = tr.xpath('td')[1:3]
-				proxylist.append(Proxy(tds[0].text,tds[1].text,source))
-				
-			if debug:
-				print 'Get Proxy List ( %s items) :' % ( len(proxylist) ,)
-				for item in proxylist:
-					print item
-			if proxy is not None:
-				if debug:
-						print '[ Proxy secceed to fetch another proxy table ! %s ]' % (proxy,)
-
-		elif source=='kuaidaili':
-
-			if ssl:
-				res = requests.get("http://www.kuaidaili.com/free/inha/"+str(random.randint(1,51)),headers=headers)
-			else:
-				res = requests.get("http://www.kuaidaili.com/free/intr/"+str(random.randint(1,51)),headers=headers)
-
-			html = etree.HTML(res.text)
-
-			ip_list_tables = html.xpath("//tbody")
-
-			if len(ip_list_tables)==0:
-				print 'Crawler : Get No IP List !'
-				return []
-
-			ip_list_table = ip_list_tables[0]
-
-			for tr in ip_list_table.xpath("//tr")[1:]:
-				tds = tr.xpath('td')[0:2]
-				proxylist.append(Proxy(tds[0].text,tds[1].text,source))
-				
-
-			if debug:
-				print 'Get Proxy List ( %s items) :' % ( len(proxylist) ,)
-				for item in proxylist:
-					print item
-	except:
-		if debug:
-			print 'Failed to fetch proxy table caused by network probloms.'
-	finally:
-		return proxylist
-
-
-
-def TestProxy(proxy,ssl = False,url = None,debug = False,pp = None):
-	if url is None:
-		if ssl:
-			url = 'https://www.baidu.com'
-		else:
-			url = 'http://www.hao123.com'
-	headers = {
-		'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
-	}
-	proxies = {
-		'http':proxy.toURL(),
-		'https':proxy.toURL(),
-	}
-	if debug:
-		print 'Testing Proxy',proxy,'ssl = %s url = %s' % (ssl,url)
-	try:
-		res = requests.get(url,headers=headers,proxies=proxies)
-	except:
-		if debug:
-			print '[BAD]',proxy
-		return False
-	else:
-		if debug:
-			print '[GOOD]',proxy
-		if pp is not None:
-			pp.push(proxy,debug=debug)
-			proxylist = getProxyList(proxy.source,ssl,debug,proxy=proxy)
-			for p in proxylist:
-				threading.Thread(target = TestProxy,kwargs = {'proxy':p,'ssl':ssl,'debug':debug,'pp':pp}).start()
-		return True
 
 class Proxy(object):
-	def __init__(self,host,port,source):
-		self.host = host
-		self.port = port
-		self.source = source
-		self.refresh()
-	def getPriority(self):
-		return self.timestamp
-	def refresh(self):
-		self.timestamp = datetime.now()
-	def toURL(self):
-		return self.host+':'+self.port
-	def __lt__(self,x):
-		return self.timestamp < x.timestamp
-	def __str__(self):
-		return '<Proxy host = %s port = %s source = %s timestamp = %s>' % (self.host,self.port,self.source,self.timestamp)
-	def __repr__(self):
-		return str(self)
+    def __init__(self, host, port, protocol):
+        self.host = host
+        self.port = port
+        self.protocol = protocol
+        self.timestamp = None
+        self.refresh()
 
-class ProxyHeap(object):
-	def __init__(self):
-		self.__heap = []
+    def refresh(self):
+        self.timestamp = datetime.now()
 
-	def push(self,item):
-		item.refresh()
-		heapq.heappush(self.__heap,item)
+    def toURL(self):
+        return self.host + ':' + self.port
 
-	def pop(self):
-		return heapq.heappop(self.__heap)
+    def __lt__(self, x):
+        return self.timestamp < x.timestamp
 
-	def empty(self):
-		if len(self.__heap) == 0:
-			return True
-		else:
-			return False
+    def __str__(self):
+        return '<Proxy host = %s port = %s protocol = %s timestamp = %s>' % (
+            self.host, self.port, self.protocol, self.timestamp)
 
-	def length(self):
-		return len(self.__heap)
+    def __repr__(self):
+        return str(self)
 
-	def __str__(self):
-		s = '<ProxyHeap ( %s items in all )' % len((self.__heap))
-		for item in self.__heap:
-			s += '\n' + str(item)
-		return s
+
+class Page(object):
+    def __init__(self, pid):
+        self.pid = pid
+        self.timestamp = None
+        self.refresh()
+
+    def refresh(self):
+        self.timestamp = datetime.now()
+
+    def __lt__(self, x):
+        return self.timestamp < x.timestamp
+
+    def __str__(self):
+        return '<Page page = %s>' % (self.pid,)
+
+    def __repr__(self):
+        return str(self)
 
 
 class ProxyPool(object):
-	__instance = None	
-	def __init__(self):
-		pass
-	def __new__(cls,*args,**kwargs):
-		if ProxyPool.__instance is None:
-			ProxyPool.__instance = super(ProxyPool,cls).__new__(cls,*args,**kwargs)
-			ProxyPool.__instance.__start = False
-			ProxyPool.__instance.__proxyheap = None
-			ProxyPool.__instance.__mutex = threading.Lock()
-			ProxyPool.__instance.__cond = threading.Condition(ProxyPool.__instance.__mutex)
-		return ProxyPool.__instance
-	def __str__(self):
-		return '<ProxyPool object(singleton)>'
-	def __repr__(self):
-		return str(self)
-	def start(self,delay = 10 * 60,source = 'xicidaili',ssl = False,debug = False):
-		print 'ProxyPool start !'
-		if self.__start:
-			'ProxyPool has already started. Do not start it again!'
-		else:
-			self.__start = True
-			self.__proxyset = set()
-			self.__proxyheap = ProxyHeap()	
-			#self.__timer = threading.Timer(delay,self.refresh,(source,debug))
-			self.refresh(delay,source,ssl,debug)
+    def __init__(self, delay=5 * 60, debug=False):
+        self.__httpProxyHeap = []
+        self.__httpsProxyHeap = []
+        self.__proxyset = set()
+        self.__pageHeap = []
+        self.__mutex = threading.Lock()
+        self.__cond = threading.Condition(self.__mutex)
+        self.__start = False
+        self.__debug = debug
+        self.__delay = delay
 
-	def stop(self):
-		if not self.__start:
-			'ProxyPool has already stoped. Do not stop it again!'		
+    def push(self, proxy):
+        if self.__start:
+            if proxy.toURL() in self.__proxyset:
+                if self.__debug:
+                    print '[UNPUSH] REPEAT PROXY : ', proxy
+                    return False
+            else:
+                self.__cond.acquire()
+                proxy.refresh()
+                self.__proxyset.add(proxy.toURL())
+                if proxy.protocol == 'HTTP':
+                    heapq.heappush(self.__httpProxyHeap, proxy)
+                elif proxy.protocol == 'HTTPS':
+                    heapq.heappush(self.__httpsProxyHeap, proxy)
+                self.__cond.notifyAll()
+                self.__cond.release()
+                if self.__debug:
+                    print '[Size : %s][PUSH] PROXY : ' % (self.size()), proxy
+        else:
+            print 'ProxyPool has not started yet!'
+            return False
 
-	def pop(self,debug = False):
-		if self.__start:
-			self.__cond.acquire()
-			while self.__proxyheap is None:
-				self.__cond.wait()
-			while self.__proxyheap.empty():
-				self.__cond.wait()
-			item = self.__proxyheap.pop()
-			self.__proxyset.remove(item.toURL())
-			if debug:
-				print 'POP : ',item,'[ %s LEFT ]' % (self.__proxyheap.length(),)
-			self.__cond.notify()
-			self.__cond.release()
-			return item
-		else:
-			print 'Please start ProxyPool first !'
-			return None
+    def pop(self, protocol='HTTP'):
+        if self.__start:
+            self.__cond.acquire()
+            proxy = None
+            if protocol == 'HTTP':
+                while len(self.__httpProxyHeap) == 0:
+                    self.__cond.wait()
+                proxy = heapq.heappop(self.__httpProxyHeap)
+            elif protocol == 'HTTPS':
+                while len(self.__httpsProxyHeap) == 0:
+                    self.__cond.wait()
+                proxy = heapq.heappop(self.__httpsProxyHeap)
+            self.__proxyset.remove(proxy.toURL())
+            self.__cond.release()
+            if self.__debug:
+                print '[Size : %s][POP] PROXY : ' % (self.size()), proxy
+            return proxy
+        else:
+            print 'ProxyPool has not started yet!'
+            return None
 
-	def push(self,item,debug = False):
-		if self.__start:
-			self.__cond.acquire()
-			if item.toURL() not in self.__proxyset:
-				self.__proxyset.add(item.toURL())
-				flag = self.__proxyheap.push(item)
-				if debug:
-					print 'PUSH : ',item,'[ %s LEFT ]' % (self.__proxyheap.length(),)
-			else:
-				if debug:
-					print 'UNPUSH[REPEAT] : ',item,'[ %s LEFT ]' % (self.__proxyheap.length(),)
-			self.__cond.notify()
-			self.__cond.release()
+    def size(self):
+        if self.__start:
+            self.__cond.acquire()
+            s = len(self.__httpProxyHeap) + len(self.__httpsProxyHeap)
+            self.__cond.release()
+            return s
+        else:
+            print 'ProxyPool has not started yet!'
+            return None
 
-	def refresh(self,delay,source,ssl,debug):
-		proxylist = getProxyList(source,ssl,debug)
-		for p in proxylist:
-			threading.Thread(target = TestProxy,kwargs = {'proxy':p,'ssl':ssl,'debug':debug,'pp':self}).start()
-		self.__timer = threading.Timer(delay,self.refresh,(delay,source,ssl,debug))
-		self.__timer.start()
+    def __crawlProxyList(self, proxy=None):
 
-	def length(self):
-		return self.__proxyheap.length()
+        proxylist = []
 
-# TODO : add a README
-# TODO : add doc
+        self.__cond.acquire()
+
+        page = heapq.heappop(self.__pageHeap)
+        pid = page.pid
+        page.refresh()
+        heapq.heappush(self.__pageHeap, page)
+
+        self.__cond.release()
+
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+        }
+
+        proxies = {}
+
+        if proxy is not None:
+            proxies = {
+                'http': proxy.toURL(),
+                'https': proxy.toURL(),
+            }
+
+        # url = 'http://www.xicidaili.com/nn/' + str(pid)
+        url = 'http://www.xicidaili.com/wt/' + str(pid)
+        try:
+            if self.__debug:
+                print '[ Crawling Proxy List ... ... ] Proxy : ', proxy
+
+            res = requests.get(url, headers=headers, proxies=proxies)
+
+            html = etree.HTML(res.text)
+
+            ip_list_tables = html.xpath("//table[@id='ip_list']")
+
+            if len(ip_list_tables) == 0:
+                if self.__debug:
+                    print 'Crawler : Get No IP List ! Proxy : ', proxy
+                print 0 / 0
+
+            ip_list_table = html.xpath("//table[@id='ip_list']")[0]
+
+            for tr in ip_list_table.xpath("//tr")[1:]:
+                tds = tr.xpath('td')[:]
+                proxylist.append(Proxy(tds[1].text, tds[2].text, tds[5].text))
+
+            if self.__debug:
+                print '[ Get %s proxies from page %s ! ] Proxy : ' % (len(proxylist), pid), proxy
+
+        except:
+            if self.__debug:
+                print '[ Bad Crawler ! ] Proxy : ', proxy
+        finally:
+            for c_proxy in proxylist:
+                threading.Thread(target=self.__testProxy, args=(c_proxy,)).start()
+            while datetime.now() - self.__pageHeap[0].timestamp < timedelta(minutes=10):
+                time.sleep(60)
+            threading.Timer(self.__delay, self.__crawlProxyList, (proxy,)).start()
+            return proxylist
+
+    def __testProxy(self, proxy):
+
+        url = 'https://www.baidu.com'
+
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+        }
+
+        proxies = {
+            'http': proxy.toURL(),
+            'https': proxy.toURL(),
+        }
+
+        try:
+            if self.__debug:
+                print '[Testing Proxy...  ...]', proxy
+            res = requests.get(url, headers=headers, proxies=proxies)
+            if not res.ok:
+                print 0 / 0
+        except:
+            if self.__debug:
+                print '[Test]Bad Proxy :', proxy
+            return False
+        else:
+            self.push(proxy)
+            if self.__debug:
+                print '[Test]Good Proxy :', proxy
+            threading.Thread(target=self.__crawlProxyList, args=(proxy,)).start()
+            return True
+
+    def start(self):
+        if not self.__start:
+            self.__start = True
+            for pid in range(1, 501):
+                heapq.heappush(self.__pageHeap, Page(pid))
+            threading.Thread(target=self.__crawlProxyList).start()
+            # threading.Thread(target=self.__checkTopProxy('HTTP')).start()
+            # threading.Thread(target=self.__checkTopProxy('HTTPS')).start()
+        else:
+            print 'ProxyPool has already started! Do not start it twice!'
+
+    def __checkTopProxy(self, protocol):
+        try:
+            if protocol == 'HTTP':
+                while datetime.now() - self.__httpProxyHeap[0].timestamp < timedelta(minutes=10):
+                    time.sleep(300)
+                self.__cond.acquire()
+                proxy = heapq.heappop(self.__httpProxyHeap)
+                self.__cond.release()
+            elif protocol == 'HTTPS':
+                while datetime.now() - self.__httpsProxyHeap[0].timestamp < timedelta(minutes=10):
+                    time.sleep(300)
+                self.__cond.acquire()
+                proxy = heapq.heappop(self.__httpsProxyHeap)
+                self.__cond.release()
+            if self.__debug:
+                print '[CHECK] Proxy :',proxy
+            threading.Thread(target=self.__testProxy, args=(proxy,)).start()
+            threading.Thread(target=self.__checkTopProxy, args=(protocol,)).start()
+        except:
+            time.sleep(120)
+            threading.Thread(target=self.__checkTopProxy, args=(protocol,)).start()
